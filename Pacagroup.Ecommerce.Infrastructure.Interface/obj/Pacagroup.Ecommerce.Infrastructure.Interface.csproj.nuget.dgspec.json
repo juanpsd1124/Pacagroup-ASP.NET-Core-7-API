@@ -1,0 +1,122 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\jposada\\Documents\\Groware\\Course Tests\\Pacagroup.Eccomerce.Transversal.Common\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Infrastructure.Interface\\Pacagroup.Ecommerce.Infrastructure.Interface.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\jposada\\Documents\\Groware\\Course Tests\\Pacagroup.Eccomerce.Transversal.Common\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Domain.Entity\\Pacagroup.Ecommerce.Domain.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jposada\\Documents\\Groware\\Course Tests\\Pacagroup.Eccomerce.Transversal.Common\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Domain.Entity\\Pacagroup.Ecommerce.Domain.Entity.csproj",
+        "projectName": "Pacagroup.Ecommerce.Domain.Entity",
+        "projectPath": "C:\\Users\\jposada\\Documents\\Groware\\Course Tests\\Pacagroup.Eccomerce.Transversal.Common\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Domain.Entity\\Pacagroup.Ecommerce.Domain.Entity.csproj",
+        "packagesPath": "C:\\Users\\jposada\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jposada\\Documents\\Groware\\Course Tests\\Pacagroup.Eccomerce.Transversal.Common\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Domain.Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jposada\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jposada\\Documents\\Groware\\Course Tests\\Pacagroup.Eccomerce.Transversal.Common\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Infrastructure.Interface\\Pacagroup.Ecommerce.Infrastructure.Interface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jposada\\Documents\\Groware\\Course Tests\\Pacagroup.Eccomerce.Transversal.Common\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Infrastructure.Interface\\Pacagroup.Ecommerce.Infrastructure.Interface.csproj",
+        "projectName": "Pacagroup.Ecommerce.Infrastructure.Interface",
+        "projectPath": "C:\\Users\\jposada\\Documents\\Groware\\Course Tests\\Pacagroup.Eccomerce.Transversal.Common\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Infrastructure.Interface\\Pacagroup.Ecommerce.Infrastructure.Interface.csproj",
+        "packagesPath": "C:\\Users\\jposada\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jposada\\Documents\\Groware\\Course Tests\\Pacagroup.Eccomerce.Transversal.Common\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Infrastructure.Interface\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jposada\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\jposada\\Documents\\Groware\\Course Tests\\Pacagroup.Eccomerce.Transversal.Common\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Domain.Entity\\Pacagroup.Ecommerce.Domain.Entity.csproj": {
+                "projectPath": "C:\\Users\\jposada\\Documents\\Groware\\Course Tests\\Pacagroup.Eccomerce.Transversal.Common\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Domain.Entity\\Pacagroup.Ecommerce.Domain.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
