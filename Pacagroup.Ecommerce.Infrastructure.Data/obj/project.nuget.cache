@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DdmI3IDOgqsMpvEx+PzxLQ9OHTGuM+uMhCjscCqW0X/mgRCn8otmGGVuqDF9DO5pol3CFMYkXrrFINqhWagVHg==",
+  "dgSpecHash": "2dBB9b67P/7cRVimD/rX9nKry4GEkg/x2S4lGHgYZHRNrc2+YwjQZJxqv87Wp6Fgbv2MFquLakWLwB4x+cwfVg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jposada\\Documents\\Groware\\Course Tests\\Pacagroup.Eccomerce.Transversal.Common\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Infrastructure.Data\\Pacagroup.Ecommerce.Infrastructure.Data.csproj",
+  "projectFilePath": "C:\\Users\\jposada\\Documents\\Groware\\Course Tests\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Infrastructure.Data\\Pacagroup.Ecommerce.Infrastructure.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jposada\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0-preview.3.23174.8\\microsoft.extensions.configuration.8.0.0-preview.3.23174.8.nupkg.sha512",
     "C:\\Users\\jposada\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0-preview.3.23174.8\\microsoft.extensions.configuration.abstractions.8.0.0-preview.3.23174.8.nupkg.sha512",

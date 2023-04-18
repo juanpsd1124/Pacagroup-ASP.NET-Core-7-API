@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jposada\\Documents\\Groware\\Course Tests\\Pacagroup.Eccomerce.Transversal.Common\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Domain.Entity\\Pacagroup.Ecommerce.Domain.Entity.csproj",
+      "projectUniqueName": "C:\\Users\\jposada\\Documents\\Groware\\Course Tests\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Domain.Entity\\Pacagroup.Ecommerce.Domain.Entity.csproj",
       "projectName": "Pacagroup.Ecommerce.Domain.Entity",
-      "projectPath": "C:\\Users\\jposada\\Documents\\Groware\\Course Tests\\Pacagroup.Eccomerce.Transversal.Common\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Domain.Entity\\Pacagroup.Ecommerce.Domain.Entity.csproj",
+      "projectPath": "C:\\Users\\jposada\\Documents\\Groware\\Course Tests\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Domain.Entity\\Pacagroup.Ecommerce.Domain.Entity.csproj",
       "packagesPath": "C:\\Users\\jposada\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jposada\\Documents\\Groware\\Course Tests\\Pacagroup.Eccomerce.Transversal.Common\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Domain.Entity\\obj\\",
+      "outputPath": "C:\\Users\\jposada\\Documents\\Groware\\Course Tests\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Domain.Entity\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jposada\\AppData\\Roaming\\NuGet\\NuGet.Config",

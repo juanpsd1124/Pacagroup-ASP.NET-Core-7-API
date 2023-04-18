@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wDYbIFkC3oqI7OtC8hqpJSgGVxKgecquuz2Ol/e+RUJPbv8g6tjy86iPNuetxALEUAOh9G52HGUPfURtlS/QsA==",
+  "dgSpecHash": "agvjCu0lHELDMMr5i6OcCpMQYpu3JHHNcs2KZSal3zuZsfRb2mDcMNsqPgPl06/1yE8iI9mnQz0elHvz9KEOOQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jposada\\Documents\\Groware\\Course Tests\\Pacagroup.Eccomerce.Transversal.Common\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Infrastructure.Repository\\Pacagroup.Ecommerce.Infrastructure.Repository.csproj",
+  "projectFilePath": "C:\\Users\\jposada\\Documents\\Groware\\Course Tests\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Infrastructure.Repository\\Pacagroup.Ecommerce.Infrastructure.Repository.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jposada\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\jposada\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0-preview.3.23174.8\\microsoft.extensions.configuration.8.0.0-preview.3.23174.8.nupkg.sha512",
