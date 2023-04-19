@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "Pacagroup.Ecommerce.Transversal.Common": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:55480;http://localhost:55488"
+    }
+  }
+}

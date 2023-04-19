@@ -213,9 +213,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jposada\\Documents\\Groware\\Course Tests\\Pacagroup.Ecommerce\\Pacagroup.Eccomerce.Application.Main\\Pacagroup.Eccomerce.Application.Main.csproj",
-      "projectName": "Pacagroup.Eccomerce.Application.Main",
-      "projectPath": "C:\\Users\\jposada\\Documents\\Groware\\Course Tests\\Pacagroup.Ecommerce\\Pacagroup.Eccomerce.Application.Main\\Pacagroup.Eccomerce.Application.Main.csproj",
+      "projectUniqueName": "C:\\Users\\jposada\\Documents\\Groware\\Course Tests\\Pacagroup.Ecommerce\\Pacagroup.Eccomerce.Application.Main\\Pacagroup.Ecommerce.Application.Main.csproj",
+      "projectName": "Pacagroup.Ecommerce.Application.Main",
+      "projectPath": "C:\\Users\\jposada\\Documents\\Groware\\Course Tests\\Pacagroup.Ecommerce\\Pacagroup.Eccomerce.Application.Main\\Pacagroup.Ecommerce.Application.Main.csproj",
       "packagesPath": "C:\\Users\\jposada\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\jposada\\Documents\\Groware\\Course Tests\\Pacagroup.Ecommerce\\Pacagroup.Eccomerce.Application.Main\\obj\\",
       "projectStyle": "PackageReference",

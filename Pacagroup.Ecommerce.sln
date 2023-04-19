@@ -31,7 +31,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pacagroup.Ecommerce.Transve
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pacagroup.Ecommerce.Application.Interface", "Pacagroup.Ecommerce.Application.Interface\Pacagroup.Ecommerce.Application.Interface.csproj", "{055A6859-D760-4AFA-A42D-34B880912D83}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pacagroup.Eccomerce.Application.Main", "Pacagroup.Eccomerce.Application.Main\Pacagroup.Eccomerce.Application.Main.csproj", "{D06FB833-495B-4C7E-A0EA-6ABC50718A16}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pacagroup.Ecommerce.Application.Main", "Pacagroup.Eccomerce.Application.Main\Pacagroup.Ecommerce.Application.Main.csproj", "{D06FB833-495B-4C7E-A0EA-6ABC50718A16}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Servicio", "Servicio", "{48E8C4FC-17C8-4ECA-9CA3-075C65F50B1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pacagroup.Ecommerce.Services.WebApi", "Pacagroup.Ecommerce.Services.WebApi\Pacagroup.Ecommerce.Services.WebApi.csproj", "{99F66A67-A486-487B-9BF4-EFA99F43147C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -83,6 +87,10 @@ Global
 		{D06FB833-495B-4C7E-A0EA-6ABC50718A16}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D06FB833-495B-4C7E-A0EA-6ABC50718A16}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D06FB833-495B-4C7E-A0EA-6ABC50718A16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99F66A67-A486-487B-9BF4-EFA99F43147C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99F66A67-A486-487B-9BF4-EFA99F43147C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99F66A67-A486-487B-9BF4-EFA99F43147C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99F66A67-A486-487B-9BF4-EFA99F43147C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -99,6 +107,7 @@ Global
 		{647AC134-EC4B-4D57-9F36-E9820F208E00} = {E41F948A-3C66-4F62-AA01-E1199FC17DB4}
 		{055A6859-D760-4AFA-A42D-34B880912D83} = {54E39A08-8819-44BF-ADBC-1A03093286DC}
 		{D06FB833-495B-4C7E-A0EA-6ABC50718A16} = {54E39A08-8819-44BF-ADBC-1A03093286DC}
+		{99F66A67-A486-487B-9BF4-EFA99F43147C} = {48E8C4FC-17C8-4ECA-9CA3-075C65F50B1C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {3930FD1D-E4E0-4268-9806-6AAFBF757273}

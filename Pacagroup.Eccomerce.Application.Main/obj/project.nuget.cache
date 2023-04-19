@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9lj6YFjlphAdWOnW/vghRKAzo5AOpTZiIy4MFNY4GzkeJPBvKwsopGKnWmpwLNuRFUWrKq8rXXGq0c/Ft5SOiA==",
+  "dgSpecHash": "+Mrv83n9pTUqpy40JYWcfycZWqgsmca4UaPfsIyBxvgOIf3XQZDAio5Uw97f+TJhOGOdFsmGghSCDs7UySRuaQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jposada\\Documents\\Groware\\Course Tests\\Pacagroup.Ecommerce\\Pacagroup.Eccomerce.Application.Main\\Pacagroup.Eccomerce.Application.Main.csproj",
+  "projectFilePath": "C:\\Users\\jposada\\Documents\\Groware\\Course Tests\\Pacagroup.Ecommerce\\Pacagroup.Eccomerce.Application.Main\\Pacagroup.Ecommerce.Application.Main.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jposada\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\jposada\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
