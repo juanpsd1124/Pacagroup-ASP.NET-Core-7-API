@@ -1,0 +1,44 @@
+C:\Workspace\Arquitectura .NET\Student\Code\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Mapper\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Mapper.deps.json
+C:\Workspace\Arquitectura .NET\Student\Code\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Mapper\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Mapper.dll
+C:\Workspace\Arquitectura .NET\Student\Code\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Mapper\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Mapper.csproj.CoreCompileInputs.cache
+C:\Workspace\Arquitectura .NET\Student\Code\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Mapper\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Mapper.AssemblyInfoInputs.cache
+C:\Workspace\Arquitectura .NET\Student\Code\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Mapper\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Mapper.AssemblyInfo.cs
+C:\Workspace\Arquitectura .NET\Student\Code\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Mapper\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Mapper.pdb
+C:\Workspace\Arquitectura .NET\Student\Code\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Mapper\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Application.DTO.dll
+C:\Workspace\Arquitectura .NET\Student\Code\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Mapper\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Domain.Entity.dll
+C:\Workspace\Arquitectura .NET\Student\Code\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Mapper\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Application.DTO.pdb
+C:\Workspace\Arquitectura .NET\Student\Code\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Mapper\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Domain.Entity.pdb
+C:\Workspace\Arquitectura .NET\Student\Code\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Mapper\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Mapper.csprojAssemblyReference.cache
+C:\Workspace\Arquitectura .NET\Student\Code\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Mapper\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Mapper.csproj.CopyComplete
+C:\Workspace\Arquitectura .NET\Student\Code\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Mapper\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Mapper.dll
+C:\Workspace\Arquitectura .NET\Student\Code\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Mapper\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Mapper.pdb
+C:\Users\lvillega\Downloads\Pacagroup.Ecommerce_v1\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Mapper\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Mapper.deps.json
+C:\Users\lvillega\Downloads\Pacagroup.Ecommerce_v1\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Mapper\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Mapper.dll
+C:\Users\lvillega\Downloads\Pacagroup.Ecommerce_v1\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Mapper\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Mapper.pdb
+C:\Users\lvillega\Downloads\Pacagroup.Ecommerce_v1\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Mapper\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Application.DTO.dll
+C:\Users\lvillega\Downloads\Pacagroup.Ecommerce_v1\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Mapper\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Domain.Entity.dll
+C:\Users\lvillega\Downloads\Pacagroup.Ecommerce_v1\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Mapper\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Application.DTO.pdb
+C:\Users\lvillega\Downloads\Pacagroup.Ecommerce_v1\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Mapper\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Domain.Entity.pdb
+C:\Users\lvillega\Downloads\Pacagroup.Ecommerce_v1\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Mapper\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Mapper.csproj.AssemblyReference.cache
+C:\Users\lvillega\Downloads\Pacagroup.Ecommerce_v1\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Mapper\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Mapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lvillega\Downloads\Pacagroup.Ecommerce_v1\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Mapper\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Mapper.AssemblyInfoInputs.cache
+C:\Users\lvillega\Downloads\Pacagroup.Ecommerce_v1\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Mapper\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Mapper.AssemblyInfo.cs
+C:\Users\lvillega\Downloads\Pacagroup.Ecommerce_v1\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Mapper\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Mapper.csproj.CoreCompileInputs.cache
+C:\Users\lvillega\Downloads\Pacagroup.Ecommerce_v1\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Mapper\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Mapper.csproj.CopyComplete
+C:\Users\lvillega\Downloads\Pacagroup.Ecommerce_v1\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Mapper\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Mapper.dll
+C:\Users\lvillega\Downloads\Pacagroup.Ecommerce_v1\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Mapper\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Mapper.pdb
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Mapper\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Mapper.deps.json
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Mapper\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Mapper.dll
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Mapper\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Mapper.pdb
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Mapper\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Application.DTO.dll
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Mapper\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Domain.Entity.dll
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Mapper\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Application.DTO.pdb
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Mapper\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Domain.Entity.pdb
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Mapper\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Mapper.csproj.AssemblyReference.cache
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Mapper\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Mapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Mapper\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Mapper.AssemblyInfoInputs.cache
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Mapper\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Mapper.AssemblyInfo.cs
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Mapper\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Mapper.csproj.CoreCompileInputs.cache
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Mapper\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Mapper.csproj.CopyComplete
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Mapper\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Mapper.dll
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Mapper\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Mapper.pdb

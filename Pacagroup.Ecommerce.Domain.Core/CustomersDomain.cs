@@ -1,4 +1,5 @@
-﻿using Pacagroup.Ecommerce.Domain.Entity;
+﻿using System;
+using Pacagroup.Ecommerce.Domain.Entity;
 using Pacagroup.Ecommerce.Domain.Interface;
 using Pacagroup.Ecommerce.Infrastructure.Interface;
 using System.Threading.Tasks;
@@ -9,16 +10,15 @@ namespace Pacagroup.Ecommerce.Domain.Core
     public class CustomersDomain : ICustomersDomain
     {
         private readonly ICustomersRepository _customersRepository;
-
         public CustomersDomain(ICustomersRepository customersRepository)
         {
             _customersRepository = customersRepository;
         }
 
-        #region Métodos Sincronos
+        #region Métodos Síncronos
 
-        public bool Insert(Customers customers) 
-        { 
+        public bool Insert(Customers customers)
+        {
             return _customersRepository.Insert(customers);
         }
 
@@ -44,7 +44,7 @@ namespace Pacagroup.Ecommerce.Domain.Core
 
         #endregion
 
-        #region Métodos Asincronos
+        #region Métodos Asíncronos
 
         public async Task<bool> InsertAsync(Customers customers)
         {

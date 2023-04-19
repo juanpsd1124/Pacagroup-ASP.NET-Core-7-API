@@ -1,11 +1,13 @@
-﻿namespace Pacagroup.Ecommerce.Application.DTO
+﻿using System;
+
+namespace Pacagroup.Ecommerce.Application.DTO
 {
-    public class CustomersDTO
+    public class CustomersDto
     {
         public string CustomerId { get; set; }
         public string CompanyName { get; set; }
-        public string ContactTitle { get; set; }
         public string ContactName { get; set; }
+        public string ContactTitle { get; set; }
         public string Address { get; set; }
         public string City { get; set; }
         public string Region { get; set; }

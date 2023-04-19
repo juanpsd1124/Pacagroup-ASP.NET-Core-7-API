@@ -1,11 +1,22 @@
 {
   "version": 2,
-  "dgSpecHash": "V5R+P3cPdM1HWb+ao4XFhhPYjuSWuimu0ZDGEW4R/VyOt2hmRONnCL8sGSOj0WG6Umh9UBe6phk/GMLd+9SV/Q==",
+  "dgSpecHash": "Gb9DI1r/5m3yIv9so5JEk6DKOCLwQ56zGuFJ7QWC4czh5YFBn6PwzM6C7h2zPsTgIEpdR7o7gdFmQBBslkShRQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\jposada\\Documents\\Groware\\Course Tests\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Transversal.Mapper\\Pacagroup.Ecommerce.Transversal.Mapper.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\jposada\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
-    "C:\\Users\\jposada\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+    "C:\\Users\\jposada\\.nuget\\packages\\automapper\\8.0.0\\automapper.8.0.0.nupkg.sha512",
+    "C:\\Users\\jposada\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\jposada\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\jposada\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\jposada\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\jposada\\.nuget\\packages\\system.io\\4.3.0\\system.io.4.3.0.nupkg.sha512",
+    "C:\\Users\\jposada\\.nuget\\packages\\system.reflection\\4.3.0\\system.reflection.4.3.0.nupkg.sha512",
+    "C:\\Users\\jposada\\.nuget\\packages\\system.reflection.emit\\4.3.0\\system.reflection.emit.4.3.0.nupkg.sha512",
+    "C:\\Users\\jposada\\.nuget\\packages\\system.reflection.emit.ilgeneration\\4.3.0\\system.reflection.emit.ilgeneration.4.3.0.nupkg.sha512",
+    "C:\\Users\\jposada\\.nuget\\packages\\system.reflection.primitives\\4.3.0\\system.reflection.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\jposada\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\jposada\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
+    "C:\\Users\\jposada\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512"
   ],
   "logs": []
 }

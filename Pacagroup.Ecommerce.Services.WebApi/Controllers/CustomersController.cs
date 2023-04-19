@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Pacagroup.Ecommerce.Application.DTO;
 using Pacagroup.Ecommerce.Application.Interface;
+using System.Threading.Tasks;
 
 namespace Pacagroup.Ecommerce.Services.WebApi.Controllers
 {
@@ -8,44 +9,35 @@ namespace Pacagroup.Ecommerce.Services.WebApi.Controllers
     [ApiController]
     public class CustomersController : Controller
     {
-        private readonly ICustomersApplication _customerApplication;
-
-        public CustomersController(ICustomersApplication customerApplication) { 
-            _customerApplication = customerApplication;
+        private readonly ICustomersApplication _customersApplication;
+        public CustomersController(ICustomersApplication customersApplication)
+        {
+            _customersApplication = customersApplication;
         }
 
         #region "Métodos Sincronos"
 
-
         [HttpPost]
-        public IActionResult Insert([FromBody]CustomersDTO customersDTO)
+        public IActionResult Insert([FromBody]CustomersDto customersDto)
         {
-            if (customersDTO == null) 
-            {
+            if (customersDto == null)
                 return BadRequest();
-            }
-            var response = _customerApplication.Insert(customersDTO);
-
-            if (response.IsSuccess) 
-            { 
+            var response = _customersApplication.Insert(customersDto);
+            if (response.IsSuccess)
                 return Ok(response);
-            }
+
             return BadRequest(response.Message);
         }
 
         [HttpPut]
-        public IActionResult Update([FromBody] CustomersDTO customersDTO)
+        public IActionResult Update([FromBody]CustomersDto customersDto)
         {
-            if (customersDTO == null)
-            {
+            if (customersDto == null)
                 return BadRequest();
-            }
-            var response = _customerApplication.Update(customersDTO);
-
+            var response = _customersApplication.Update(customersDto);
             if (response.IsSuccess)
-            {
                 return Ok(response);
-            }
+
             return BadRequest(response.Message);
         }
 
@@ -53,15 +45,11 @@ namespace Pacagroup.Ecommerce.Services.WebApi.Controllers
         public IActionResult Delete(string customerId)
         {
             if (string.IsNullOrEmpty(customerId))
-            {
                 return BadRequest();
-            }
-            var response = _customerApplication.Delete(customerId);
-
+            var response = _customersApplication.Delete(customerId);
             if (response.IsSuccess)
-            {
                 return Ok(response);
-            }
+
             return BadRequest(response.Message);
         }
 
@@ -69,80 +57,60 @@ namespace Pacagroup.Ecommerce.Services.WebApi.Controllers
         public IActionResult Get(string customerId)
         {
             if (string.IsNullOrEmpty(customerId))
-            {
                 return BadRequest();
-            }
-            var response = _customerApplication.Get(customerId);
-
+            var response = _customersApplication.Get(customerId);
             if (response.IsSuccess)
-            {
                 return Ok(response);
-            }
+
             return BadRequest(response.Message);
         }
 
         [HttpGet]
         public IActionResult GetAll()
         {
-            var response = _customerApplication.GetAll();
-
+            var response = _customersApplication.GetAll();
             if (response.IsSuccess)
-            {
                 return Ok(response);
-            }
+
             return BadRequest(response.Message);
         }
         #endregion
 
-
         #region "Métodos Asincronos"
 
         [HttpPost]
-        public async Task<IActionResult> InsertAsync([FromBody] CustomersDTO customersDTO)
+        public async Task<IActionResult> InsertAsync([FromBody]CustomersDto customersDto)
         {
-            if (customersDTO == null)
-            {
+            if (customersDto == null)
                 return BadRequest();
-            }
-            var response = await _customerApplication.InsertAsync(customersDTO);
-
+            var response = await _customersApplication.InsertAsync(customersDto);
             if (response.IsSuccess)
-            {
                 return Ok(response);
-            }
+
             return BadRequest(response.Message);
         }
 
         [HttpPut]
-        public async Task<IActionResult> UpdateAsync([FromBody] CustomersDTO customersDTO)
+        public async Task<IActionResult> UpdateAsync([FromBody]CustomersDto customersDto)
         {
-            if (customersDTO == null)
-            {
+            if (customersDto == null)
                 return BadRequest();
-            }
-            var response = await _customerApplication.UpdateAsync(customersDTO);
-
+            var response = await _customersApplication.UpdateAsync(customersDto);
             if (response.IsSuccess)
-            {
                 return Ok(response);
-            }
+
             return BadRequest(response.Message);
         }
-
 
         [HttpDelete("{customerId}")]
         public async Task<IActionResult> DeleteAsync(string customerId)
         {
             if (string.IsNullOrEmpty(customerId))
-            {
                 return BadRequest();
-            }
-            var response = await _customerApplication.DeleteAsync(customerId);
-
+            var response = await _customersApplication.DeleteAsync(customerId);
             if (response.IsSuccess)
-            {
                 return Ok(response);
-            }
+
             return BadRequest(response.Message);
         }
 
@@ -150,34 +118,25 @@ namespace Pacagroup.Ecommerce.Services.WebApi.Controllers
         public async Task<IActionResult> GetAsync(string customerId)
         {
             if (string.IsNullOrEmpty(customerId))
-            {
                 return BadRequest();
-            }
-            var response = await _customerApplication.GetAsync(customerId);
-
+            var response = await _customersApplication.GetAsync(customerId);
             if (response.IsSuccess)
-            {
                 return Ok(response);
-            }
+
             return BadRequest(response.Message);
         }
 
         [HttpGet]
         public async Task<IActionResult> GetAllAsync()
         {
-            var response = await _customerApplication.GetAllAsync();
-
+            var response = await _customersApplication.GetAllAsync();
             if (response.IsSuccess)
-            {
                 return Ok(response);
-            }
-            return BadRequest(response);
-        }
 
+            return BadRequest(response.Message);
+        }
 
         #endregion
 
     }
-
-
 }

@@ -1,0 +1,29 @@
+C:\Workspace\Arquitectura .NET\Student\Code\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Common\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Common.deps.json
+C:\Workspace\Arquitectura .NET\Student\Code\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Common\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Common.dll
+C:\Workspace\Arquitectura .NET\Student\Code\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Common\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Common.pdb
+C:\Workspace\Arquitectura .NET\Student\Code\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Common\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Common.csproj.CoreCompileInputs.cache
+C:\Workspace\Arquitectura .NET\Student\Code\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Common\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Common.AssemblyInfoInputs.cache
+C:\Workspace\Arquitectura .NET\Student\Code\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Common\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Common.AssemblyInfo.cs
+C:\Workspace\Arquitectura .NET\Student\Code\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Common\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Common.dll
+C:\Workspace\Arquitectura .NET\Student\Code\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Common\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Common.pdb
+C:\Workspace\Arquitectura .NET\Student\Code\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Common\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Common.csprojAssemblyReference.cache
+C:\Users\lvillega\Downloads\Pacagroup.Ecommerce_v1\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Common\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Common.deps.json
+C:\Users\lvillega\Downloads\Pacagroup.Ecommerce_v1\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Common\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Common.dll
+C:\Users\lvillega\Downloads\Pacagroup.Ecommerce_v1\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Common\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Common.pdb
+C:\Users\lvillega\Downloads\Pacagroup.Ecommerce_v1\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Common\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Common.csproj.AssemblyReference.cache
+C:\Users\lvillega\Downloads\Pacagroup.Ecommerce_v1\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Common\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lvillega\Downloads\Pacagroup.Ecommerce_v1\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Common\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Common.AssemblyInfoInputs.cache
+C:\Users\lvillega\Downloads\Pacagroup.Ecommerce_v1\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Common\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Common.AssemblyInfo.cs
+C:\Users\lvillega\Downloads\Pacagroup.Ecommerce_v1\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Common\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Common.csproj.CoreCompileInputs.cache
+C:\Users\lvillega\Downloads\Pacagroup.Ecommerce_v1\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Common\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Common.dll
+C:\Users\lvillega\Downloads\Pacagroup.Ecommerce_v1\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Common\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Common.pdb
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Common\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Common.deps.json
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Common\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Common.dll
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Common\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Common.pdb
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Common\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Common.csproj.AssemblyReference.cache
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Common\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Common\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Common.AssemblyInfoInputs.cache
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Common\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Common.AssemblyInfo.cs
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Common\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Common.csproj.CoreCompileInputs.cache
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Common\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Common.dll
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Common\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Common.pdb

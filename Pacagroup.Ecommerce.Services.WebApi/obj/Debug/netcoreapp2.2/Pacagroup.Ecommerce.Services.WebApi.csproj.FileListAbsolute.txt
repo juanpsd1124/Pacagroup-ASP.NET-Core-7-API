@@ -1,0 +1,119 @@
+C:\Workspace\Arquitectura .NET\Student\Code\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Services.WebApi.deps.json
+C:\Workspace\Arquitectura .NET\Student\Code\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Services.WebApi.runtimeconfig.json
+C:\Workspace\Arquitectura .NET\Student\Code\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Services.WebApi.runtimeconfig.dev.json
+C:\Workspace\Arquitectura .NET\Student\Code\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Services.WebApi.dll
+C:\Workspace\Arquitectura .NET\Student\Code\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\obj\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Services.WebApi.csprojAssemblyReference.cache
+C:\Workspace\Arquitectura .NET\Student\Code\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\obj\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Services.WebApi.csproj.CoreCompileInputs.cache
+C:\Workspace\Arquitectura .NET\Student\Code\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\obj\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Services.WebApi.RazorAssemblyInfo.cache
+C:\Workspace\Arquitectura .NET\Student\Code\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\obj\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Services.WebApi.RazorAssemblyInfo.cs
+C:\Workspace\Arquitectura .NET\Student\Code\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\obj\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Services.WebApi.AssemblyInfoInputs.cache
+C:\Workspace\Arquitectura .NET\Student\Code\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\obj\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Services.WebApi.AssemblyInfo.cs
+C:\Workspace\Arquitectura .NET\Student\Code\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\obj\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Services.WebApi.RazorTargetAssemblyInfo.cache
+C:\Workspace\Arquitectura .NET\Student\Code\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Services.WebApi.pdb
+C:\Workspace\Arquitectura .NET\Student\Code\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\obj\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Services.WebApi.dll
+C:\Workspace\Arquitectura .NET\Student\Code\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\obj\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Services.WebApi.pdb
+C:\Workspace\Arquitectura .NET\Student\Code\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Application.DTO.dll
+C:\Workspace\Arquitectura .NET\Student\Code\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Application.Interface.dll
+C:\Workspace\Arquitectura .NET\Student\Code\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Transversal.Common.dll
+C:\Workspace\Arquitectura .NET\Student\Code\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Application.DTO.pdb
+C:\Workspace\Arquitectura .NET\Student\Code\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Application.Interface.pdb
+C:\Workspace\Arquitectura .NET\Student\Code\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Transversal.Common.pdb
+C:\Workspace\Arquitectura .NET\Student\Code\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\obj\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Services.WebApi.csproj.CopyComplete
+C:\Workspace\Arquitectura .NET\Student\Code\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Application.Main.dll
+C:\Workspace\Arquitectura .NET\Student\Code\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Domain.Core.dll
+C:\Workspace\Arquitectura .NET\Student\Code\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Domain.Entity.dll
+C:\Workspace\Arquitectura .NET\Student\Code\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Domain.Interface.dll
+C:\Workspace\Arquitectura .NET\Student\Code\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Infrastructure.Data.dll
+C:\Workspace\Arquitectura .NET\Student\Code\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Infrastructure.Interface.dll
+C:\Workspace\Arquitectura .NET\Student\Code\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Infrastructure.Repository.dll
+C:\Workspace\Arquitectura .NET\Student\Code\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Transversal.Mapper.dll
+C:\Workspace\Arquitectura .NET\Student\Code\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Application.Main.pdb
+C:\Workspace\Arquitectura .NET\Student\Code\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Domain.Core.pdb
+C:\Workspace\Arquitectura .NET\Student\Code\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Domain.Entity.pdb
+C:\Workspace\Arquitectura .NET\Student\Code\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Domain.Interface.pdb
+C:\Workspace\Arquitectura .NET\Student\Code\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Infrastructure.Data.pdb
+C:\Workspace\Arquitectura .NET\Student\Code\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Infrastructure.Interface.pdb
+C:\Workspace\Arquitectura .NET\Student\Code\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Infrastructure.Repository.pdb
+C:\Workspace\Arquitectura .NET\Student\Code\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Transversal.Mapper.pdb
+C:\Users\lvillega\Downloads\Pacagroup.Ecommerce_v1\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\lvillega\Downloads\Pacagroup.Ecommerce_v1\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\lvillega\Downloads\Pacagroup.Ecommerce_v1\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Services.WebApi.deps.json
+C:\Users\lvillega\Downloads\Pacagroup.Ecommerce_v1\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Services.WebApi.runtimeconfig.json
+C:\Users\lvillega\Downloads\Pacagroup.Ecommerce_v1\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Services.WebApi.runtimeconfig.dev.json
+C:\Users\lvillega\Downloads\Pacagroup.Ecommerce_v1\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Services.WebApi.dll
+C:\Users\lvillega\Downloads\Pacagroup.Ecommerce_v1\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Services.WebApi.pdb
+C:\Users\lvillega\Downloads\Pacagroup.Ecommerce_v1\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Application.DTO.dll
+C:\Users\lvillega\Downloads\Pacagroup.Ecommerce_v1\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Application.Interface.dll
+C:\Users\lvillega\Downloads\Pacagroup.Ecommerce_v1\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Application.Main.dll
+C:\Users\lvillega\Downloads\Pacagroup.Ecommerce_v1\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Domain.Core.dll
+C:\Users\lvillega\Downloads\Pacagroup.Ecommerce_v1\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Domain.Entity.dll
+C:\Users\lvillega\Downloads\Pacagroup.Ecommerce_v1\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Domain.Interface.dll
+C:\Users\lvillega\Downloads\Pacagroup.Ecommerce_v1\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Infrastructure.Data.dll
+C:\Users\lvillega\Downloads\Pacagroup.Ecommerce_v1\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Infrastructure.Interface.dll
+C:\Users\lvillega\Downloads\Pacagroup.Ecommerce_v1\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Infrastructure.Repository.dll
+C:\Users\lvillega\Downloads\Pacagroup.Ecommerce_v1\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Transversal.Common.dll
+C:\Users\lvillega\Downloads\Pacagroup.Ecommerce_v1\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Transversal.Mapper.dll
+C:\Users\lvillega\Downloads\Pacagroup.Ecommerce_v1\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Application.DTO.pdb
+C:\Users\lvillega\Downloads\Pacagroup.Ecommerce_v1\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Application.Interface.pdb
+C:\Users\lvillega\Downloads\Pacagroup.Ecommerce_v1\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Application.Main.pdb
+C:\Users\lvillega\Downloads\Pacagroup.Ecommerce_v1\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Domain.Core.pdb
+C:\Users\lvillega\Downloads\Pacagroup.Ecommerce_v1\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Domain.Entity.pdb
+C:\Users\lvillega\Downloads\Pacagroup.Ecommerce_v1\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Domain.Interface.pdb
+C:\Users\lvillega\Downloads\Pacagroup.Ecommerce_v1\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Infrastructure.Data.pdb
+C:\Users\lvillega\Downloads\Pacagroup.Ecommerce_v1\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Infrastructure.Interface.pdb
+C:\Users\lvillega\Downloads\Pacagroup.Ecommerce_v1\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Infrastructure.Repository.pdb
+C:\Users\lvillega\Downloads\Pacagroup.Ecommerce_v1\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Transversal.Common.pdb
+C:\Users\lvillega\Downloads\Pacagroup.Ecommerce_v1\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Transversal.Mapper.pdb
+C:\Users\lvillega\Downloads\Pacagroup.Ecommerce_v1\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\obj\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Services.WebApi.csproj.AssemblyReference.cache
+C:\Users\lvillega\Downloads\Pacagroup.Ecommerce_v1\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\obj\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Services.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lvillega\Downloads\Pacagroup.Ecommerce_v1\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\obj\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Services.WebApi.AssemblyInfoInputs.cache
+C:\Users\lvillega\Downloads\Pacagroup.Ecommerce_v1\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\obj\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Services.WebApi.AssemblyInfo.cs
+C:\Users\lvillega\Downloads\Pacagroup.Ecommerce_v1\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\obj\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Services.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\lvillega\Downloads\Pacagroup.Ecommerce_v1\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\obj\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Services.WebApi.RazorAssemblyInfo.cache
+C:\Users\lvillega\Downloads\Pacagroup.Ecommerce_v1\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\obj\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Services.WebApi.RazorAssemblyInfo.cs
+C:\Users\lvillega\Downloads\Pacagroup.Ecommerce_v1\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\obj\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Services.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\lvillega\Downloads\Pacagroup.Ecommerce_v1\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\obj\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Services.WebApi.csproj.CopyComplete
+C:\Users\lvillega\Downloads\Pacagroup.Ecommerce_v1\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\obj\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Services.WebApi.dll
+C:\Users\lvillega\Downloads\Pacagroup.Ecommerce_v1\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\obj\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Services.WebApi.pdb
+C:\Users\lvillega\Downloads\Pacagroup.Ecommerce_v1\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\obj\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Services.WebApi.genruntimeconfig.cache
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Services.WebApi.deps.json
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Services.WebApi.runtimeconfig.json
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Services.WebApi.runtimeconfig.dev.json
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Services.WebApi.dll
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Services.WebApi.pdb
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Application.DTO.dll
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Application.Interface.dll
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Application.Main.dll
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Domain.Core.dll
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Domain.Entity.dll
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Domain.Interface.dll
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Infrastructure.Data.dll
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Infrastructure.Interface.dll
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Infrastructure.Repository.dll
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Transversal.Common.dll
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Transversal.Mapper.dll
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Application.DTO.pdb
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Application.Interface.pdb
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Application.Main.pdb
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Domain.Core.pdb
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Domain.Entity.pdb
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Domain.Interface.pdb
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Infrastructure.Data.pdb
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Infrastructure.Interface.pdb
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Infrastructure.Repository.pdb
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Transversal.Common.pdb
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Transversal.Mapper.pdb
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\obj\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Services.WebApi.csproj.AssemblyReference.cache
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\obj\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Services.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\obj\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Services.WebApi.AssemblyInfoInputs.cache
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\obj\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Services.WebApi.AssemblyInfo.cs
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\obj\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Services.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\obj\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Services.WebApi.RazorAssemblyInfo.cache
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\obj\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Services.WebApi.RazorAssemblyInfo.cs
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\obj\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Services.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\obj\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Services.WebApi.csproj.CopyComplete
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\obj\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Services.WebApi.dll
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\obj\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Services.WebApi.pdb
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\obj\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Services.WebApi.genruntimeconfig.cache
