@@ -1,0 +1,17 @@
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Mapper\bin\Debug\net6.0\Pacagroup.Ecommerce.Transversal.Mapper.deps.json
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Mapper\bin\Debug\net6.0\Pacagroup.Ecommerce.Transversal.Mapper.dll
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Mapper\bin\Debug\net6.0\Pacagroup.Ecommerce.Transversal.Mapper.pdb
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Mapper\bin\Debug\net6.0\Pacagroup.Ecommerce.Application.DTO.dll
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Mapper\bin\Debug\net6.0\Pacagroup.Ecommerce.Domain.Entity.dll
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Mapper\bin\Debug\net6.0\Pacagroup.Ecommerce.Application.DTO.pdb
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Mapper\bin\Debug\net6.0\Pacagroup.Ecommerce.Domain.Entity.pdb
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Mapper\obj\Debug\net6.0\Pacagroup.Ecommerce.Transversal.Mapper.csproj.AssemblyReference.cache
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Mapper\obj\Debug\net6.0\Pacagroup.Ecommerce.Transversal.Mapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Mapper\obj\Debug\net6.0\Pacagroup.Ecommerce.Transversal.Mapper.AssemblyInfoInputs.cache
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Mapper\obj\Debug\net6.0\Pacagroup.Ecommerce.Transversal.Mapper.AssemblyInfo.cs
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Mapper\obj\Debug\net6.0\Pacagroup.Ecommerce.Transversal.Mapper.csproj.CoreCompileInputs.cache
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Mapper\obj\Debug\net6.0\Pacagroup.Ecommerce.Transversal.Mapper.csproj.CopyComplete
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Mapper\obj\Debug\net6.0\Pacagroup.Ecommerce.Transversal.Mapper.dll
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Mapper\obj\Debug\net6.0\refint\Pacagroup.Ecommerce.Transversal.Mapper.dll
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Mapper\obj\Debug\net6.0\Pacagroup.Ecommerce.Transversal.Mapper.pdb
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Mapper\obj\Debug\net6.0\ref\Pacagroup.Ecommerce.Transversal.Mapper.dll
