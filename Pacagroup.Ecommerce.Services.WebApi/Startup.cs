@@ -1,25 +1,24 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+﻿using AutoMapper;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
-using Microsoft.Extensions.Logging;
-using Microsoft.Extensions.Options;
-using AutoMapper;
-using Pacagroup.Ecommerce.Transversal.Mapper;
-using Pacagroup.Ecommerce.Transversal.Common;
-using Pacagroup.Ecommerce.Infrastructure.Data;
-using Pacagroup.Ecommerce.Infrastructure.Repository;
-using Pacagroup.Ecommerce.Infrastructure.Interface;
-using Pacagroup.Ecommerce.Domain.Interface;
-using Pacagroup.Ecommerce.Domain.Core;
+using Microsoft.IdentityModel.Tokens;
 using Pacagroup.Ecommerce.Application.Interface;
 using Pacagroup.Ecommerce.Application.Main;
-using Swashbuckle.AspNetCore.Swagger;
+using Pacagroup.Ecommerce.Domain.Core;
+using Pacagroup.Ecommerce.Domain.Interface;
+using Pacagroup.Ecommerce.Infrastructure.Data;
+using Pacagroup.Ecommerce.Infrastructure.Interface;
+using Pacagroup.Ecommerce.Infrastructure.Repository;
+using Pacagroup.Ecommerce.Services.WebApi.Helpers;
+using Pacagroup.Ecommerce.Transversal.Common;
+using Pacagroup.Ecommerce.Transversal.Mapper;
+using System;
+using System.Text;
+using System.Threading.Tasks;
 
 namespace Pacagroup.Ecommerce.Services.WebApi
 {
@@ -39,25 +38,74 @@ namespace Pacagroup.Ecommerce.Services.WebApi
             services.AddAutoMapper(x => x.AddProfile(new MappingsProfile()));
             services.AddCors(options =>
             {
-            //options.AddPolicy(myPolicy, builder => builder.WithOrigins(Configuration["Config: OriginCors"])
-            //    .AllowAnyHeader()
-            //    .AllowAnyMethod()
-
-            options.AddPolicy(myPolicy, builder =>
-            {
-                builder.SetIsOriginAllowed(origin => new Uri(origin).Host == "localhost")
+                options.AddPolicy(myPolicy, builder => builder.WithOrigins(Configuration["Config:OriginCors"])
                     .AllowAnyHeader()
-                    .AllowAnyMethod();
-            });
+                    .AllowAnyMethod()
+                );
             });
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2)
                 .AddJsonOptions(options => { options.SerializerSettings.ContractResolver = new Newtonsoft.Json.Serialization.DefaultContractResolver(); });
+
+            var appSettingsSection = Configuration.GetSection("Config");
+            services.Configure<AppSettings>(appSettingsSection);
+
+            //Configure JWT Authentication
+            var appSettings = appSettingsSection.Get<AppSettings>();
 
             services.AddSingleton<IConfiguration>(Configuration);
             services.AddSingleton<IConnectionFactory, ConnectionFactory>();
             services.AddScoped<ICustomersApplication, CustomersApplication>();
             services.AddScoped<ICustomersDomain, CustomersDomain>();
             services.AddScoped<ICustomersRepository, CustomersRepository>();
+            services.AddScoped<IUsersApplication, UsersApplication>();
+            services.AddScoped<IUsersDomain, UsersDomain>();
+            services.AddScoped<IUsersRepository, UsersRepository>();
+
+            var key = Encoding.ASCII.GetBytes(appSettings.Secret);
+            var Issuer = appSettings.Issuer;
+            var Audience = appSettings.Audience;
+
+            //Agrega servicio para validar token al momento de realizarse una peticion
+
+            services.AddAuthentication(x =>
+            {
+                x.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
+                x.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
+
+            })
+            .AddJwtBearer(x =>
+             {
+                 x.Events = new JwtBearerEvents
+                 {
+                     OnTokenValidated = context =>
+                     {
+                         var userId = int.Parse(context.Principal.Identity.Name);
+                         return Task.CompletedTask;
+                     },
+
+                     OnAuthenticationFailed = context =>
+                     {
+                         if (context.Exception.GetType() == typeof(SecurityTokenExpiredException))
+                         {
+                             context.Response.Headers.Add("Token-Expired", "true");
+                         }
+                         return Task.CompletedTask;
+                     }
+                 };
+                 x.RequireHttpsMetadata = false;
+                 x.SaveToken = false;
+                 x.TokenValidationParameters = new TokenValidationParameters
+                 {
+                     ValidateIssuerSigningKey = true,
+                     IssuerSigningKey = new SymmetricSecurityKey(key),
+                     ValidateIssuer = true,
+                     ValidIssuer = Issuer,
+                     ValidateAudience = true,
+                     ValidAudience = Audience,
+                     ValidateLifetime = true,
+                     ClockSkew = TimeSpan.Zero
+                 };
+             });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -69,6 +117,7 @@ namespace Pacagroup.Ecommerce.Services.WebApi
             }
 
             app.UseCors(myPolicy);
+            app.UseAuthentication();
 
             app.UseMvc();
         }
