@@ -110,7 +110,7 @@
           "dependencies": {
             "Microsoft.Extensions.Configuration": {
               "target": "Package",
-              "version": "[2.2.0, )"
+              "version": "[7.0.0, )"
             },
             "NETStandard.Library": {
               "suppressParent": "All",
@@ -120,7 +120,7 @@
             },
             "System.Data.SqlClient": {
               "target": "Package",
-              "version": "[4.6.0, )"
+              "version": "[4.8.5, )"
             }
           },
           "imports": [
@@ -254,7 +254,7 @@
           "dependencies": {
             "Dapper": {
               "target": "Package",
-              "version": "[1.50.5, )"
+              "version": "[2.0.123, )"
             },
             "NETStandard.Library": {
               "suppressParent": "All",
