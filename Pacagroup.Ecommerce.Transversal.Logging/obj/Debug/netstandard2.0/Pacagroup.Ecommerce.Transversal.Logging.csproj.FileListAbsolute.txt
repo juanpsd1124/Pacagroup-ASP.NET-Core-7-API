@@ -1,0 +1,13 @@
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Logging\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Logging.csproj.AssemblyReference.cache
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Logging\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Logging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Logging\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Logging.AssemblyInfoInputs.cache
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Logging\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Logging.AssemblyInfo.cs
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Logging\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Logging.csproj.CoreCompileInputs.cache
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Logging\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Logging.deps.json
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Logging\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Logging.dll
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Logging\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Logging.pdb
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Logging\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Common.dll
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Logging\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Common.pdb
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Logging\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Logging.csproj.CopyComplete
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Logging\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Logging.dll
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Transversal.Logging\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Logging.pdb

@@ -76,6 +76,13 @@ C:\Users\lvillega\Downloads\Pacagroup.Ecommerce_v1\Pacagroup.Ecommerce\Pacagroup
 C:\Users\lvillega\Downloads\Pacagroup.Ecommerce_v1\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\obj\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Services.WebApi.dll
 C:\Users\lvillega\Downloads\Pacagroup.Ecommerce_v1\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\obj\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Services.WebApi.pdb
 C:\Users\lvillega\Downloads\Pacagroup.Ecommerce_v1\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\obj\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Services.WebApi.genruntimeconfig.cache
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\obj\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Services.WebApi.csproj.AssemblyReference.cache
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\obj\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Services.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\obj\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Services.WebApi.AssemblyInfoInputs.cache
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\obj\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Services.WebApi.AssemblyInfo.cs
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\obj\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Services.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\obj\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Services.WebApi.RazorAssemblyInfo.cache
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\obj\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Services.WebApi.RazorAssemblyInfo.cs
 C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\netcoreapp2.2\appsettings.Development.json
 C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\netcoreapp2.2\appsettings.json
 C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Services.WebApi.deps.json
@@ -93,6 +100,7 @@ C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ec
 C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Infrastructure.Interface.dll
 C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Infrastructure.Repository.dll
 C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Transversal.Common.dll
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Transversal.Logging.dll
 C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Transversal.Mapper.dll
 C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Application.DTO.pdb
 C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Application.Interface.pdb
@@ -104,14 +112,8 @@ C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ec
 C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Infrastructure.Interface.pdb
 C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Infrastructure.Repository.pdb
 C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Transversal.Common.pdb
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Transversal.Logging.pdb
 C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Transversal.Mapper.pdb
-C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\obj\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Services.WebApi.csproj.AssemblyReference.cache
-C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\obj\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Services.WebApi.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\obj\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Services.WebApi.AssemblyInfoInputs.cache
-C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\obj\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Services.WebApi.AssemblyInfo.cs
-C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\obj\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Services.WebApi.csproj.CoreCompileInputs.cache
-C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\obj\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Services.WebApi.RazorAssemblyInfo.cache
-C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\obj\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Services.WebApi.RazorAssemblyInfo.cs
 C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\obj\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Services.WebApi.RazorTargetAssemblyInfo.cache
 C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\obj\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Services.WebApi.csproj.CopyComplete
 C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\obj\Debug\netcoreapp2.2\Pacagroup.Ecommerce.Services.WebApi.dll

@@ -45,6 +45,7 @@
           "Pacagroup.Ecommerce.Infrastructure.Interface": "1.0.0",
           "Pacagroup.Ecommerce.Infrastructure.Repository": "1.0.0",
           "Pacagroup.Ecommerce.Transversal.Common": "1.0.0",
+          "Pacagroup.Ecommerce.Transversal.Logging": "1.0.0",
           "Pacagroup.Ecommerce.Transversal.Mapper": "1.0.0",
           "Swashbuckle.AspNetCore": "6.5.0",
           "Swashbuckle.AspNetCore.Swagger": "6.5.0",
@@ -641,6 +642,18 @@
         },
         "compile": {
           "Pacagroup.Ecommerce.Transversal.Common.dll": {}
+        }
+      },
+      "Pacagroup.Ecommerce.Transversal.Logging/1.0.0": {
+        "dependencies": {
+          "Microsoft.Extensions.Logging": "2.2.0",
+          "Pacagroup.Ecommerce.Transversal.Common": "1.0.0"
+        },
+        "runtime": {
+          "Pacagroup.Ecommerce.Transversal.Logging.dll": {}
+        },
+        "compile": {
+          "Pacagroup.Ecommerce.Transversal.Logging.dll": {}
         }
       },
       "Pacagroup.Ecommerce.Transversal.Mapper/1.0.0": {
@@ -4109,6 +4122,11 @@
       "sha512": ""
     },
     "Pacagroup.Ecommerce.Transversal.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Pacagroup.Ecommerce.Transversal.Logging/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
