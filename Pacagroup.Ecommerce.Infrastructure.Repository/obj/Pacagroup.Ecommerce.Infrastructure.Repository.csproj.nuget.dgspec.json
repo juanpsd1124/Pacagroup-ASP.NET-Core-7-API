@@ -107,7 +107,7 @@
           "dependencies": {
             "Microsoft.Extensions.Configuration": {
               "target": "Package",
-              "version": "[3.1.8, )"
+              "version": "[5.0.0, )"
             },
             "System.Data.SqlClient": {
               "target": "Package",
@@ -247,7 +247,7 @@
           "dependencies": {
             "Dapper": {
               "target": "Package",
-              "version": "[2.0.35, )"
+              "version": "[2.0.78, )"
             }
           },
           "imports": [

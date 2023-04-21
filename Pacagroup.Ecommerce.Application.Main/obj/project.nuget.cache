@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "rLh7clgYCo5qVCCKcp/FjNc67IYv3eC+5ub+x1Dpt1yqGiSIbrSkCmYuScmhADHFPbMQZYliEPVbTkaJy9RoEQ==",
+  "dgSpecHash": "5/EHjFDNsmXNYErD6xuHVkjX5jiZJDx9yNhbiZ31byVKoZkR8fMavjvPNq0KWWPZrA0na49tab/jJlRRE5aBig==",
   "success": true,
   "projectFilePath": "C:\\Users\\jposada\\Documents\\Groware\\Course Tests\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Application.Main\\Pacagroup.Ecommerce.Application.Main.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\jposada\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
+    "C:\\Users\\jposada\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\jposada\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\jposada\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
   ],
