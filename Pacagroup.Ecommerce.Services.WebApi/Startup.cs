@@ -8,6 +8,8 @@ using Pacagroup.Ecommerce.Services.WebApi.Modules.Mapper;
 using Pacagroup.Ecommerce.Services.WebApi.Modules.Features;
 using Pacagroup.Ecommerce.Services.WebApi.Modules.Injection;
 using Pacagroup.Ecommerce.Services.WebApi.Modules.Validator;
+using Pacagroup.Ecommerce.Services.WebApi.Modules.Versioning;
+using Microsoft.AspNetCore.Mvc.ApiExplorer;
 
 namespace Pacagroup.Ecommerce.Services.WebApi
 {
@@ -28,6 +30,7 @@ namespace Pacagroup.Ecommerce.Services.WebApi
             services.AddFeature(this.Configuration);
             services.AddInjection(this.Configuration);
             services.AddAuthentication(this.Configuration);
+            services.AddVersioning();
             services.AddValidator();
         }
 

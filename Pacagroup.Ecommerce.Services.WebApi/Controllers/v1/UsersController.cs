@@ -11,11 +11,12 @@ using Pacagroup.Ecommerce.Application.Interface;
 using Pacagroup.Ecommerce.Services.WebApi.Helpers;
 using Pacagroup.Ecommerce.Transversal.Common;
 
-namespace Pacagroup.Ecommerce.Services.WebApi.Controllers
+namespace Pacagroup.Ecommerce.Services.WebApi.Controllers.v1
 {
     [Authorize]
     [Route("api/[controller]/")]
     [ApiController]
+    [ApiVersion("1.0")]
     public class UsersController : Controller
     {
         private readonly IUsersApplication _usersApplication;
