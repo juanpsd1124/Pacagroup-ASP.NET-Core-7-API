@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "gqwDtx12MrSueRLWoDUYDu0hOlIgcAkJeTH0l1pl7BzSdGcm24rmzo+K/axX4ggcyBWd206LbyJBiULXfFuAyQ==",
+  "dgSpecHash": "v4Ur1/juaMI4FG5JfDRrUUFrWuc3Rih6inZI3HwIaeasPXOcuqS1t0b7vtA13y7kkk6DJjICWkI4zC+2mQsT7Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jposada\\Documents\\Groware\\Course Tests\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Domain.Core\\Pacagroup.Ecommerce.Domain.Core.csproj",
+  "projectFilePath": "C:\\Users\\Juan Posada\\Documents\\Groware Test\\Pacagroup-ASP.NET-Core-7-API\\Pacagroup.Ecommerce.Domain.Core\\Pacagroup.Ecommerce.Domain.Core.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\jposada\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\jposada\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\Juan Posada\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Juan Posada\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }

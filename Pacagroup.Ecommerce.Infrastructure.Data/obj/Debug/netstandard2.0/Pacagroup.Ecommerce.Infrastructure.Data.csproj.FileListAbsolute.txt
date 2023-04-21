@@ -36,3 +36,16 @@ C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ec
 C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infrastructure.Data\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Infrastructure.Data.csproj.CopyComplete
 C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infrastructure.Data\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Infrastructure.Data.dll
 C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infrastructure.Data\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Infrastructure.Data.pdb
+C:\Users\Juan Posada\Documents\Groware Test\Pacagroup-ASP.NET-Core-7-API\Pacagroup.Ecommerce.Infrastructure.Data\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Infrastructure.Data.deps.json
+C:\Users\Juan Posada\Documents\Groware Test\Pacagroup-ASP.NET-Core-7-API\Pacagroup.Ecommerce.Infrastructure.Data\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Infrastructure.Data.dll
+C:\Users\Juan Posada\Documents\Groware Test\Pacagroup-ASP.NET-Core-7-API\Pacagroup.Ecommerce.Infrastructure.Data\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Infrastructure.Data.pdb
+C:\Users\Juan Posada\Documents\Groware Test\Pacagroup-ASP.NET-Core-7-API\Pacagroup.Ecommerce.Infrastructure.Data\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Common.dll
+C:\Users\Juan Posada\Documents\Groware Test\Pacagroup-ASP.NET-Core-7-API\Pacagroup.Ecommerce.Infrastructure.Data\bin\Debug\netstandard2.0\Pacagroup.Ecommerce.Transversal.Common.pdb
+C:\Users\Juan Posada\Documents\Groware Test\Pacagroup-ASP.NET-Core-7-API\Pacagroup.Ecommerce.Infrastructure.Data\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Infrastructure.Data.csproj.AssemblyReference.cache
+C:\Users\Juan Posada\Documents\Groware Test\Pacagroup-ASP.NET-Core-7-API\Pacagroup.Ecommerce.Infrastructure.Data\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Infrastructure.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan Posada\Documents\Groware Test\Pacagroup-ASP.NET-Core-7-API\Pacagroup.Ecommerce.Infrastructure.Data\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Infrastructure.Data.AssemblyInfoInputs.cache
+C:\Users\Juan Posada\Documents\Groware Test\Pacagroup-ASP.NET-Core-7-API\Pacagroup.Ecommerce.Infrastructure.Data\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Infrastructure.Data.AssemblyInfo.cs
+C:\Users\Juan Posada\Documents\Groware Test\Pacagroup-ASP.NET-Core-7-API\Pacagroup.Ecommerce.Infrastructure.Data\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Infrastructure.Data.csproj.CoreCompileInputs.cache
+C:\Users\Juan Posada\Documents\Groware Test\Pacagroup-ASP.NET-Core-7-API\Pacagroup.Ecommerce.Infrastructure.Data\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Infrastructure.Data.csproj.CopyComplete
+C:\Users\Juan Posada\Documents\Groware Test\Pacagroup-ASP.NET-Core-7-API\Pacagroup.Ecommerce.Infrastructure.Data\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Infrastructure.Data.dll
+C:\Users\Juan Posada\Documents\Groware Test\Pacagroup-ASP.NET-Core-7-API\Pacagroup.Ecommerce.Infrastructure.Data\obj\Debug\netstandard2.0\Pacagroup.Ecommerce.Infrastructure.Data.pdb
