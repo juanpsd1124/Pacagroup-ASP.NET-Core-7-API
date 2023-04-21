@@ -9,17 +9,17 @@
     ".NETStandard,Version=v2.1/": {
       "Pacagroup.Ecommerce.Transversal.Common/1.0.0": {
         "dependencies": {
-          "FluentValidation": "10.0.4"
+          "FluentValidation": "11.5.2"
         },
         "runtime": {
           "Pacagroup.Ecommerce.Transversal.Common.dll": {}
         }
       },
-      "FluentValidation/10.0.4": {
+      "FluentValidation/11.5.2": {
         "runtime": {
           "lib/netstandard2.1/FluentValidation.dll": {
-            "assemblyVersion": "9.0.0.0",
-            "fileVersion": "10.0.4.0"
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.5.2.0"
           }
         }
       }
@@ -31,12 +31,12 @@
       "serviceable": false,
       "sha512": ""
     },
-    "FluentValidation/10.0.4": {
+    "FluentValidation/11.5.2": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-LqEYHuF5gXBJzG9/aUQS50TJP5cZgh/twvPLV7iTtFFGF6isGBkNXOhr9VwmSjlFRIVOqcMtkGuHwuPbU+XpoQ==",
-      "path": "fluentvalidation/10.0.4",
-      "hashPath": "fluentvalidation.10.0.4.nupkg.sha512"
+      "sha512": "sha512-kj/hW/iusp2zq1Vt1YPLgDj6UG0DhoJXGkLwjLwm3j7vUtRF8DVA5vHJfItG3BxDjLWJUR2pvw8fK7rnuysZNA==",
+      "path": "fluentvalidation/11.5.2",
+      "hashPath": "fluentvalidation.11.5.2.nupkg.sha512"
     }
   }
 }

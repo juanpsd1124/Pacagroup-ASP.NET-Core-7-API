@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "bvyQnoTbO/1A6iYHPWR01IV0+ivJAGTWBrjLvVFW/LSBAZ+2u2X/QHw5ZeviGqBFE89wz/BgJRVLUlovMJ3EzQ==",
+  "dgSpecHash": "OVA2fnjXPWVX956YNgLa0uybmz9ooBmp434gAFh4yiHgapfVRxby452FW/jsf32A+msUNk7ssPjkkmY069LZng==",
   "success": true,
   "projectFilePath": "C:\\Users\\jposada\\Documents\\Groware\\Course Tests\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Application.Validator\\Pacagroup.Ecommerce.Application.Validator.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\jposada\\.nuget\\packages\\fluentvalidation\\10.0.4\\fluentvalidation.10.0.4.nupkg.sha512",
-    "C:\\Users\\jposada\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\10.0.4\\fluentvalidation.dependencyinjectionextensions.10.0.4.nupkg.sha512",
+    "C:\\Users\\jposada\\.nuget\\packages\\fluentvalidation\\11.5.2\\fluentvalidation.11.5.2.nupkg.sha512",
+    "C:\\Users\\jposada\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.5.2\\fluentvalidation.dependencyinjectionextensions.11.5.2.nupkg.sha512",
     "C:\\Users\\jposada\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
   ],
   "logs": []

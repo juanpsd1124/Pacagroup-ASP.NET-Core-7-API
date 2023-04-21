@@ -168,7 +168,7 @@
           "dependencies": {
             "FluentValidation": {
               "target": "Package",
-              "version": "[10.0.4, )"
+              "version": "[11.5.2, )"
             }
           },
           "imports": [

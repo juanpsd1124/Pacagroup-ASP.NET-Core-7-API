@@ -187,7 +187,7 @@
           "dependencies": {
             "AutoMapper": {
               "target": "Package",
-              "version": "[10.1.1, )"
+              "version": "[12.0.1, )"
             }
           },
           "imports": [
@@ -255,11 +255,11 @@
           "dependencies": {
             "FluentValidation": {
               "target": "Package",
-              "version": "[10.0.4, )"
+              "version": "[11.5.2, )"
             },
             "FluentValidation.DependencyInjectionExtensions": {
               "target": "Package",
-              "version": "[10.0.4, )"
+              "version": "[11.5.2, )"
             }
           },
           "imports": [
@@ -515,11 +515,11 @@
           "dependencies": {
             "Microsoft.Extensions.Configuration": {
               "target": "Package",
-              "version": "[5.0.0, )"
+              "version": "[7.0.0, )"
             },
             "System.Data.SqlClient": {
               "target": "Package",
-              "version": "[4.8.2, )"
+              "version": "[4.8.5, )"
             }
           },
           "imports": [
@@ -655,7 +655,7 @@
           "dependencies": {
             "Dapper": {
               "target": "Package",
-              "version": "[2.0.78, )"
+              "version": "[2.0.123, )"
             }
           },
           "imports": [
@@ -695,15 +695,15 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net5.0"
+          "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {
               "C:\\Users\\jposada\\Documents\\Groware\\Course Tests\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Application.DTO\\Pacagroup.Ecommerce.Application.DTO.csproj": {
                 "projectPath": "C:\\Users\\jposada\\Documents\\Groware\\Course Tests\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Application.DTO\\Pacagroup.Ecommerce.Application.DTO.csproj"
@@ -754,33 +754,28 @@
         }
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "dependencies": {
             "AutoMapper": {
               "target": "Package",
-              "version": "[10.1.1, )"
+              "version": "[12.0.1, )"
             },
             "AutoMapper.Extensions.Microsoft.DependencyInjection": {
               "target": "Package",
-              "version": "[8.1.1, )"
+              "version": "[12.0.1, )"
             },
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
-              "version": "[5.0.3, )"
-            },
-            "Microsoft.AspNetCore.Razor.Design": {
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[2.2.0, )"
+              "version": "[6.0.16, )"
             },
             "Microsoft.IdentityModel.Tokens": {
               "target": "Package",
-              "version": "[6.8.0, )"
+              "version": "[6.29.0, )"
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
-              "version": "[3.0.0, )"
+              "version": "[6.0.13, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
@@ -800,7 +795,7 @@
             },
             "System.IdentityModel.Tokens.Jwt": {
               "target": "Package",
-              "version": "[6.7.1, )"
+              "version": "[6.29.0, )"
             }
           },
           "imports": [
@@ -867,7 +862,7 @@
           "dependencies": {
             "FluentValidation": {
               "target": "Package",
-              "version": "[10.0.4, )"
+              "version": "[11.5.2, )"
             }
           },
           "imports": [
@@ -935,7 +930,7 @@
           "dependencies": {
             "Microsoft.Extensions.Logging": {
               "target": "Package",
-              "version": "[5.0.0, )"
+              "version": "[7.0.0, )"
             }
           },
           "imports": [
@@ -1006,7 +1001,7 @@
           "dependencies": {
             "AutoMapper": {
               "target": "Package",
-              "version": "[10.1.1, )"
+              "version": "[12.0.1, )"
             }
           },
           "imports": [
