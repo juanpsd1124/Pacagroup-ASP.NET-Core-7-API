@@ -1,0 +1,339 @@
+{
+	"info": {
+		"_postman_id": "e4d6c2c2-37d4-40cf-8d8b-c02d1804bf87",
+		"name": "Backend .Net",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "26246709"
+	},
+	"item": [
+		{
+			"name": "Producto",
+			"item": [
+				{
+					"name": "Crear producto",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"id\": 31,\r\n    \"nombre\": \"Nuevo producto 6\",\r\n    \"precio\": 12345,\r\n    \"fechaCreacion\": \"2022-01-01\",\r\n    \"marcaId\": 1,\r\n    \"categoriaId\": 1\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://localhost:5001/api/productos",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "5001",
+							"path": [
+								"api",
+								"productos"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Obtener productos",
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "X-Version",
+								"value": "1.1",
+								"type": "text",
+								"disabled": true
+							},
+							{
+								"key": "Accept",
+								"value": "application/javascript",
+								"type": "text",
+								"disabled": true
+							}
+						],
+						"url": {
+							"raw": "https://localhost:5001/api/productos/10",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "5001",
+							"path": [
+								"api",
+								"productos",
+								"10"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Actualizar producto",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"id\": 31,\r\n    \"nombre\": \"Parlante\",\r\n    \"precio\": 12345,\r\n    \"fechaCreacion\": \"2022-03-03\",\r\n    \"marcaId\": 1,\r\n    \"categoriaId\": 1\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://localhost:5001/api/productos/31",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "5001",
+							"path": [
+								"api",
+								"productos",
+								"31"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Eliminar producto",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"url": {
+							"raw": "https://localhost:5001/api/productos/30",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "5001",
+							"path": [
+								"api",
+								"productos",
+								"30"
+							]
+						}
+					},
+					"response": []
+				}
+			],
+			"event": [
+				{
+					"listen": "prerequest",
+					"script": {
+						"type": "text/javascript",
+						"exec": [
+							""
+						]
+					}
+				},
+				{
+					"listen": "test",
+					"script": {
+						"type": "text/javascript",
+						"exec": [
+							""
+						]
+					}
+				}
+			]
+		},
+		{
+			"name": "JWT",
+			"item": [
+				{
+					"name": "Register",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"nombres\": \"Juan David\",\r\n    \"apellidoPaterno\": \"Posada\",\r\n    \"apellidoMaterno\": \"Paba\",\r\n    \"email\": \"jposada@consware.com.co\",\r\n    \"username\": \"jposada@consware.com.co\",\r\n    \"password\": \"jposada1234\"\r\n\r\n\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://localhost:5001/api/usuarios/register",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "5001",
+							"path": [
+								"api",
+								"usuarios",
+								"register"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Get Token Async",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									"const datosUsuario = pm.response.json();\r",
+									"\r",
+									"pm.test(\"Has Properties\", function(){\r",
+									"\r",
+									"    pm.expect(datosUsuario).to.have.property('userName');\r",
+									"    pm.expect(datosUsuario).to.have.property('token');\r",
+									"    pm.expect(datosUsuario).to.have.property('email');\r",
+									"});\r",
+									"\r",
+									"if(pm.test(\"Has Properties\")){\r",
+									"    pm.globals.set('token', datosUsuario.token);\r",
+									"}"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"username\": \"jposada@consware.com.co\",\r\n    \"password\": \"jposada1234\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://localhost:5001/api/usuarios/token",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "5001",
+							"path": [
+								"api",
+								"usuarios",
+								"token"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Add Role Async",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"username\": \"jposada@consware.com.co\",\r\n    \"password\": \"jposada1234\",\r\n    \"role\": \"Administrador\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://localhost:5001/api/usuarios/addrole",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "5001",
+							"path": [
+								"api",
+								"usuarios",
+								"addrole"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Refresh Token",
+					"event": [
+						{
+							"listen": "test",
+							"script": {
+								"exec": [
+									"const datosUsuario = pm.response.json();\r",
+									"\r",
+									"pm.test(\"Has Properties\", function(){\r",
+									"\r",
+									"    pm.expect(datosUsuario).to.have.property('userName');\r",
+									"    pm.expect(datosUsuario).to.have.property('token');\r",
+									"    pm.expect(datosUsuario).to.have.property('email');\r",
+									"});\r",
+									"\r",
+									"if(pm.test(\"Has Properties\")){\r",
+									"    pm.globals.set('token', datosUsuario.token);\r",
+									"}"
+								],
+								"type": "text/javascript"
+							}
+						}
+					],
+					"request": {
+						"method": "POST",
+						"header": [],
+						"url": {
+							"raw": "https://localhost:5001/api/usuarios/refresh-token",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "5001",
+							"path": [
+								"api",
+								"usuarios",
+								"refresh-token"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		}
+	],
+	"auth": {
+		"type": "bearer",
+		"bearer": [
+			{
+				"key": "token",
+				"value": "{{token}}",
+				"type": "string"
+			}
+		]
+	},
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		}
+	]
+}

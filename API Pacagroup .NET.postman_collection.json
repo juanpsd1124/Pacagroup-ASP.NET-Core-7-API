@@ -1,0 +1,372 @@
+{
+	"info": {
+		"_postman_id": "c5287423-85fd-4d62-bcee-a94979b8d39e",
+		"name": "API Customer .NET",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "26246709"
+	},
+	"item": [
+		{
+			"name": "Get All Customers v1",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							""
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJuYmYiOjE2ODIwODM1ODEsImV4cCI6MTY4MjA4MzY0MSwiaWF0IjoxNjgyMDgzNTgxLCJpc3MiOiJQYWNhZ3JvdXAuY29tIiwiYXVkIjoiUGFjYWdyb3VwLmNvbSJ9.mKFMnZjG2li3ABTBhfOrcmMGKOE8F7-7u48U-jBj3BM",
+						"type": "text",
+						"disabled": true
+					}
+				],
+				"url": {
+					"raw": "http://localhost:49327/api/Customers/GetAll",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "49327",
+					"path": [
+						"api",
+						"Customers",
+						"GetAll"
+					],
+					"query": [
+						{
+							"key": "Authorization",
+							"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJuYmYiOjE2ODIwMjAxMjEsImV4cCI6MTY4MjAyMDE4MSwiaWF0IjoxNjgyMDIwMTIxLCJpc3MiOiJQYWNhZ3JvdXAuY29tIiwiYXVkIjoiUGFjYWdyb3VwLmNvbSJ9.6gtQZelSKR4i0NBankCsvv5RXDfmgiwu_Bixl2rFhl4",
+							"disabled": true
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get Customer By ID",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:49327/api/Customers/Get/ANTON",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "49327",
+					"path": [
+						"api",
+						"Customers",
+						"Get",
+						"ANTON"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Create Customer",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJuYmYiOjE2ODIwODM1ODEsImV4cCI6MTY4MjA4MzY0MSwiaWF0IjoxNjgyMDgzNTgxLCJpc3MiOiJQYWNhZ3JvdXAuY29tIiwiYXVkIjoiUGFjYWdyb3VwLmNvbSJ9.mKFMnZjG2li3ABTBhfOrcmMGKOE8F7-7u48U-jBj3BM",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"CustomerId\": \"133487\",\r\n    \"CompanyName\": \"Pacagroup Technology Services\",\r\n    \"ContactName\": \"Juan Posada\",\r\n    \"ContactTitle\": \"Dev\",\r\n    \"Address\": \"Carrera 55 # 100 - 51\",\r\n    \"City\": \"Barranquilla\",\r\n    \"Region\": \"Atlántico\",\r\n    \"PostalCode\": \"12345\",\r\n    \"Country\": \"Colombia\",\r\n    \"Phone\": \"3016587412\",\r\n    \"Fax\": \"605487831\"\r\n}\r\n\r\n\r\n\r\n\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:49327/api/Customers/Insert",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "49327",
+					"path": [
+						"api",
+						"Customers",
+						"Insert"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Update Customer",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"CustomerId\": \"1334\",\r\n    \"CompanyName\": \"Pacagroup Technology Services\",\r\n    \"ContactName\": \"Juan Posada\",\r\n    \"ContactTitle\": \"Dev\",\r\n    \"Address\": \"Carrera 55 # 100 - 51\",\r\n    \"City\": \"Barranquilla\",\r\n    \"Region\": \"Atlántico\",\r\n    \"PostalCode\": \"12345\",\r\n    \"Country\": \"Colombia\",\r\n    \"Phone\": \"3016587412\",\r\n    \"Fax\": \"605487831\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:49327/api/Customers/Update?api-version=1.0",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "49327",
+					"path": [
+						"api",
+						"Customers",
+						"Update"
+					],
+					"query": [
+						{
+							"key": "api-version",
+							"value": "1.0"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Delete Customer",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:49327/api/Customers/Delete/1234",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "49327",
+					"path": [
+						"api",
+						"Customers",
+						"Delete",
+						"1234"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Authenticate v1",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"const datosUsuario = pm.response.json();\r",
+							"\r",
+							"pm.test(\"Has Properties\", function(){\r",
+							"\r",
+							"    pm.expect(datosUsuario).to.have.property('Token');\r",
+							"});\r",
+							"\r",
+							"if(pm.test(\"Has Properties\")){\r",
+							"    pm.globals.set('token', datosUsuario.data.token);\r",
+							"    console.log(datosUsuario);\r",
+							"}"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"UserId\": 0,\r\n    \"FirstName\": \"string\",\r\n    \"LastName\": \"string\",\r\n    \"UserName\": \"jpsd1224\",\r\n    \"Password\": \"jpsd122448\",\r\n    \"Token\": \"string\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:49327/api/Users/Authenticate?api-version=1.0",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "49327",
+					"path": [
+						"api",
+						"Users",
+						"Authenticate"
+					],
+					"query": [
+						{
+							"key": "api-version",
+							"value": "1.0"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get All Customers v2",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Authorization",
+						"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJuYmYiOjE2ODIxMDMxMjgsImV4cCI6MTY4MjEwMzE4OCwiaWF0IjoxNjgyMTAzMTI4LCJpc3MiOiJQYWNhZ3JvdXAuY29tIiwiYXVkIjoiUGFjYWdyb3VwLmNvbSJ9.G26DThTZsAUifUbJtBiSui2IZFOiNZ3RpuAZ9hXZATM",
+						"type": "text",
+						"disabled": true
+					}
+				],
+				"url": {
+					"raw": "http://localhost:49327/api/Customers/GetAll?api-version=2.0",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "49327",
+					"path": [
+						"api",
+						"Customers",
+						"GetAll"
+					],
+					"query": [
+						{
+							"key": "Authorization",
+							"value": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjEiLCJuYmYiOjE2ODIwMjAxMjEsImV4cCI6MTY4MjAyMDE4MSwiaWF0IjoxNjgyMDIwMTIxLCJpc3MiOiJQYWNhZ3JvdXAuY29tIiwiYXVkIjoiUGFjYWdyb3VwLmNvbSJ9.6gtQZelSKR4i0NBankCsvv5RXDfmgiwu_Bixl2rFhl4",
+							"disabled": true
+						},
+						{
+							"key": "api-version",
+							"value": "2.0"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Authenticate v2",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"UserId\": 0,\r\n    \"FirstName\": \"string\",\r\n    \"LastName\": \"string\",\r\n    \"UserName\": \"jpsd1224\",\r\n    \"Password\": \"jpsd122448\",\r\n    \"Token\": \"string\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:49327/api/Users/Authenticate?api-version=2.0",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "49327",
+					"path": [
+						"api",
+						"Users",
+						"Authenticate"
+					],
+					"query": [
+						{
+							"key": "api-version",
+							"value": "2.0"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Update Customer v2",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"CustomerId\": \"1334\",\r\n    \"CompanyName\": \"Pacagroup Technology Services\",\r\n    \"ContactName\": \"Juan Posada\",\r\n    \"ContactTitle\": \"Dev\",\r\n    \"Address\": \"Carrera 55 # 100 - 51\",\r\n    \"City\": \"Barranquilla\",\r\n    \"Region\": \"Atlántico\",\r\n    \"PostalCode\": \"12345\",\r\n    \"Country\": \"Colombia\",\r\n    \"Phone\": \"3016587412\",\r\n    \"Fax\": \"605487831\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:49327/api/Customers/Update/1334/?api-version=2.0",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "49327",
+					"path": [
+						"api",
+						"Customers",
+						"Update",
+						"1334",
+						""
+					],
+					"query": [
+						{
+							"key": "api-version",
+							"value": "2.0"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"auth": {
+		"type": "bearer",
+		"bearer": [
+			{
+				"key": "token",
+				"value": "{{token}}",
+				"type": "string"
+			}
+		]
+	},
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		}
+	]
+}
