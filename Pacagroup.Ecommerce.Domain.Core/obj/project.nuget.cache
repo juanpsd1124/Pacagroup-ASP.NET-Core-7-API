@@ -1,11 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "v4Ur1/juaMI4FG5JfDRrUUFrWuc3Rih6inZI3HwIaeasPXOcuqS1t0b7vtA13y7kkk6DJjICWkI4zC+2mQsT7Q==",
+  "dgSpecHash": "jrvhnRbJmNhLyAKCFbjVgDYLyKuaZC9bb9dbukNFC0Ga11lmwrhamyZQ5YzuJ84/40ANB9PE6W/JSbWWTS+4mg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Juan Posada\\Documents\\Groware Test\\Pacagroup-ASP.NET-Core-7-API\\Pacagroup.Ecommerce.Domain.Core\\Pacagroup.Ecommerce.Domain.Core.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Juan Posada\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\Juan Posada\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\jposada\\Documents\\Groware\\Course Tests\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Domain.Core\\Pacagroup.Ecommerce.Domain.Core.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

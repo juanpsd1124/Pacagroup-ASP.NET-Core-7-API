@@ -1,0 +1,13 @@
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infrastructure.Interface\bin\Debug\netstandard2.1\Pacagroup.Ecommerce.Infrastructure.Interface.deps.json
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infrastructure.Interface\bin\Debug\netstandard2.1\Pacagroup.Ecommerce.Infrastructure.Interface.dll
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infrastructure.Interface\bin\Debug\netstandard2.1\Pacagroup.Ecommerce.Infrastructure.Interface.pdb
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infrastructure.Interface\bin\Debug\netstandard2.1\Pacagroup.Ecommerce.Domain.Entity.dll
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infrastructure.Interface\bin\Debug\netstandard2.1\Pacagroup.Ecommerce.Domain.Entity.pdb
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infrastructure.Interface\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Infrastructure.Interface.csproj.AssemblyReference.cache
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infrastructure.Interface\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Infrastructure.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infrastructure.Interface\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Infrastructure.Interface.AssemblyInfoInputs.cache
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infrastructure.Interface\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Infrastructure.Interface.AssemblyInfo.cs
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infrastructure.Interface\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Infrastructure.Interface.csproj.CoreCompileInputs.cache
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infrastructure.Interface\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Infrastructure.Interface.csproj.CopyComplete
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infrastructure.Interface\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Infrastructure.Interface.dll
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infrastructure.Interface\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Infrastructure.Interface.pdb

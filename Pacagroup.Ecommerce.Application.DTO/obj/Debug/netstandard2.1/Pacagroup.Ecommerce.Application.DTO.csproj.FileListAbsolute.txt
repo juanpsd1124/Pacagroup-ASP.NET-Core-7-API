@@ -1,0 +1,10 @@
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.DTO\bin\Debug\netstandard2.1\Pacagroup.Ecommerce.Application.DTO.deps.json
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.DTO\bin\Debug\netstandard2.1\Pacagroup.Ecommerce.Application.DTO.dll
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.DTO\bin\Debug\netstandard2.1\Pacagroup.Ecommerce.Application.DTO.pdb
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.DTO\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Application.DTO.csproj.AssemblyReference.cache
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.DTO\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Application.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.DTO\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Application.DTO.AssemblyInfoInputs.cache
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.DTO\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Application.DTO.AssemblyInfo.cs
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.DTO\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Application.DTO.csproj.CoreCompileInputs.cache
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.DTO\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Application.DTO.dll
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.DTO\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Application.DTO.pdb

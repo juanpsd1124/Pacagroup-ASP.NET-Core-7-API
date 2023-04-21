@@ -1,0 +1,10 @@
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Entity\bin\Debug\netstandard2.1\Pacagroup.Ecommerce.Domain.Entity.deps.json
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Entity\bin\Debug\netstandard2.1\Pacagroup.Ecommerce.Domain.Entity.dll
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Entity\bin\Debug\netstandard2.1\Pacagroup.Ecommerce.Domain.Entity.pdb
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Entity\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Domain.Entity.csproj.AssemblyReference.cache
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Entity\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Domain.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Entity\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Domain.Entity.AssemblyInfoInputs.cache
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Entity\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Domain.Entity.AssemblyInfo.cs
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Entity\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Domain.Entity.csproj.CoreCompileInputs.cache
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Entity\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Domain.Entity.dll
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Domain.Entity\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Domain.Entity.pdb
