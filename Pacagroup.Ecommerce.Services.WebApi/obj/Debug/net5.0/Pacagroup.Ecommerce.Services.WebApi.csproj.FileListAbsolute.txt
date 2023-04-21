@@ -137,3 +137,7 @@ C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ec
 C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\obj\Debug\net5.0\Pacagroup.Ecommerce.Services.WebApi.pdb
 C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\obj\Debug\net5.0\Pacagroup.Ecommerce.Services.WebApi.genruntimeconfig.cache
 C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\obj\Debug\net5.0\ref\Pacagroup.Ecommerce.Services.WebApi.dll
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\net5.0\Pacagroup.Ecommerce.Application.Validator.dll
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Services.WebApi\bin\Debug\net5.0\Pacagroup.Ecommerce.Application.Validator.pdb

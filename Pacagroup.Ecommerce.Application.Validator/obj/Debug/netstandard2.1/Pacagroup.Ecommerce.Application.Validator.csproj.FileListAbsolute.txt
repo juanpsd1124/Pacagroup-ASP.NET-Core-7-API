@@ -1,0 +1,13 @@
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.Validator\bin\Debug\netstandard2.1\Pacagroup.Ecommerce.Application.Validator.deps.json
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.Validator\bin\Debug\netstandard2.1\Pacagroup.Ecommerce.Application.Validator.dll
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.Validator\bin\Debug\netstandard2.1\Pacagroup.Ecommerce.Application.Validator.pdb
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.Validator\bin\Debug\netstandard2.1\Pacagroup.Ecommerce.Application.DTO.dll
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.Validator\bin\Debug\netstandard2.1\Pacagroup.Ecommerce.Application.DTO.pdb
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.Validator\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Application.Validator.csproj.AssemblyReference.cache
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.Validator\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Application.Validator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.Validator\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Application.Validator.AssemblyInfoInputs.cache
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.Validator\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Application.Validator.AssemblyInfo.cs
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.Validator\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Application.Validator.csproj.CoreCompileInputs.cache
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.Validator\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Application.Validator.csproj.CopyComplete
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.Validator\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Application.Validator.dll
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.Validator\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Application.Validator.pdb

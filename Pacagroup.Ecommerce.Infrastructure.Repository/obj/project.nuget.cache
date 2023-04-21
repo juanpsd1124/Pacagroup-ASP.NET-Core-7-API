@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "yIggqOU7zVsL+RoLd7CxNkxqM2OxsFccnP1xKiMnqTvgFW+ENEsmm1VsUIZZj0wz9TGxR8Xqu23o72EG9QGHJw==",
+  "dgSpecHash": "CiK9ATlaOkSgvLlFQHR9vZrG1DaTrCjDupkYBS1riYMJPnIb49i/iLjjaF/lbxpWcPtQIyWs9wsLA5JtHUgMGA==",
   "success": true,
   "projectFilePath": "C:\\Users\\jposada\\Documents\\Groware\\Course Tests\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Infrastructure.Repository\\Pacagroup.Ecommerce.Infrastructure.Repository.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jposada\\.nuget\\packages\\dapper\\2.0.78\\dapper.2.0.78.nupkg.sha512",
+    "C:\\Users\\jposada\\.nuget\\packages\\fluentvalidation\\10.0.4\\fluentvalidation.10.0.4.nupkg.sha512",
     "C:\\Users\\jposada\\.nuget\\packages\\microsoft.extensions.configuration\\5.0.0\\microsoft.extensions.configuration.5.0.0.nupkg.sha512",
     "C:\\Users\\jposada\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\jposada\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",

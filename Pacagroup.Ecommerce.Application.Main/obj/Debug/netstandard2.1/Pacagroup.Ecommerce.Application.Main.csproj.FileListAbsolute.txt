@@ -19,3 +19,5 @@ C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ec
 C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.Main\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Application.Main.csproj.CopyComplete
 C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.Main\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Application.Main.dll
 C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.Main\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Application.Main.pdb
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.Main\bin\Debug\netstandard2.1\Pacagroup.Ecommerce.Application.Validator.dll
+C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Application.Main\bin\Debug\netstandard2.1\Pacagroup.Ecommerce.Application.Validator.pdb

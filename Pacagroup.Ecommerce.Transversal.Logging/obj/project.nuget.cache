@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "N22BghdeZAW12MkL52qeQjKIRITPyjNOVdsOyIp+ZpBbKVgRCDv5NPeJpTpDEjRV/O8uvzfOPAWrFs/9smQ4og==",
+  "dgSpecHash": "m3wFhC54NQU+SV08lCCTGKAnqwSG6q/fCjiesRwqcdnS93uI9fbdHp5Dz9NVdAPSQmt90X2j/cKsjKV5Nmm5wA==",
   "success": true,
   "projectFilePath": "C:\\Users\\jposada\\Documents\\Groware\\Course Tests\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Transversal.Logging\\Pacagroup.Ecommerce.Transversal.Logging.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\jposada\\.nuget\\packages\\fluentvalidation\\10.0.4\\fluentvalidation.10.0.4.nupkg.sha512",
     "C:\\Users\\jposada\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.0\\microsoft.extensions.dependencyinjection.5.0.0.nupkg.sha512",
     "C:\\Users\\jposada\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\jposada\\.nuget\\packages\\microsoft.extensions.logging\\5.0.0\\microsoft.extensions.logging.5.0.0.nupkg.sha512",

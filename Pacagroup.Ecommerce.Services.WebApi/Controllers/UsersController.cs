@@ -14,7 +14,7 @@ using Pacagroup.Ecommerce.Transversal.Common;
 namespace Pacagroup.Ecommerce.Services.WebApi.Controllers
 {
     [Authorize]
-    [Route("api/[controller]/[action]")]
+    [Route("api/[controller]/")]
     [ApiController]
     public class UsersController : Controller
     {
@@ -28,10 +28,10 @@ namespace Pacagroup.Ecommerce.Services.WebApi.Controllers
         }
 
         [AllowAnonymous]
-        [HttpPost]
-        public IActionResult Authenticate([FromBody] UsersDTO usersDTO) 
+        [HttpPost("Authenticate")]
+        public IActionResult Authenticate([FromBody] UsersDTO usersDto)
         {
-            var response = _usersApplication.Authenticate(usersDTO.UserName, usersDTO.Password);
+            var response = _usersApplication.Authenticate(usersDto.UserName, usersDto.Password);
             if (response.IsSuccess)
             {
                 if (response.Data != null)
@@ -39,12 +39,11 @@ namespace Pacagroup.Ecommerce.Services.WebApi.Controllers
                     response.Data.Token = BuildToken(response);
                     return Ok(response);
                 }
-                else 
-                {
-                    return NotFound(response.Message);
-                }
+                else
+                    return NotFound(response.Data);
             }
-            return BadRequest(response.Message);
+
+            return BadRequest(response);
         }
 
         private string BuildToken(Response<UsersDTO> usersDTO)

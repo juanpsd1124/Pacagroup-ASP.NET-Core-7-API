@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "QpdbQNCb3rAd2Npvr8z3JLPYOD9dWzFXUCNUr5gu1qsgAF9tn1RIrZ7+4ziCucxGZBxbXHrJjsQzdS6k8AmG2g==",
+  "dgSpecHash": "r12BjCaDg+X+OOIH9AggCtl+E2D68v2x992bO6y6wJLqqsjVyQ8dtoIZdziRCjpqSSvL51kIlFt5/6WPqiNPHg==",
   "success": true,
   "projectFilePath": "C:\\Users\\jposada\\Documents\\Groware\\Course Tests\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Transversal.Common\\Pacagroup.Ecommerce.Transversal.Common.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\jposada\\.nuget\\packages\\fluentvalidation\\10.0.4\\fluentvalidation.10.0.4.nupkg.sha512"
+  ],
   "logs": []
 }

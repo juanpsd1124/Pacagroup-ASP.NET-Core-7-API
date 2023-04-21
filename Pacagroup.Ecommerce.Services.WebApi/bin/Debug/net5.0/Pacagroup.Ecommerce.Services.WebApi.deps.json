@@ -42,6 +42,7 @@
           "Pacagroup.Ecommerce.Application.DTO": "1.0.0",
           "Pacagroup.Ecommerce.Application.Interface": "1.0.0",
           "Pacagroup.Ecommerce.Application.Main": "1.0.0",
+          "Pacagroup.Ecommerce.Application.Validator": "1.0.0",
           "Pacagroup.Ecommerce.Domain.Core": "1.0.0",
           "Pacagroup.Ecommerce.Domain.Entity": "1.0.0",
           "Pacagroup.Ecommerce.Domain.Interface": "1.0.0",
@@ -387,6 +388,32 @@
         },
         "compile": {
           "lib/net5.0/Dapper.dll": {}
+        }
+      },
+      "FluentValidation/10.0.4": {
+        "runtime": {
+          "lib/net5.0/FluentValidation.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "10.0.4.0"
+          }
+        },
+        "compile": {
+          "lib/net5.0/FluentValidation.dll": {}
+        }
+      },
+      "FluentValidation.DependencyInjectionExtensions/10.0.4": {
+        "dependencies": {
+          "FluentValidation": "10.0.4",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "5.0.0"
+        },
+        "runtime": {
+          "lib/netstandard2.1/FluentValidation.DependencyInjectionExtensions.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "10.0.4.0"
+          }
+        },
+        "compile": {
+          "lib/netstandard2.1/FluentValidation.DependencyInjectionExtensions.dll": {}
         }
       },
       "Microsoft.AspNetCore.Authentication.JwtBearer/5.0.3": {
@@ -1877,6 +1904,7 @@
           "AutoMapper": "10.1.1",
           "Pacagroup.Ecommerce.Application.DTO": "1.0.0",
           "Pacagroup.Ecommerce.Application.Interface": "1.0.0",
+          "Pacagroup.Ecommerce.Application.Validator": "1.0.0",
           "Pacagroup.Ecommerce.Domain.Entity": "1.0.0",
           "Pacagroup.Ecommerce.Domain.Interface": "1.0.0",
           "Pacagroup.Ecommerce.Transversal.Common": "1.0.0"
@@ -1886,6 +1914,19 @@
         },
         "compile": {
           "Pacagroup.Ecommerce.Application.Main.dll": {}
+        }
+      },
+      "Pacagroup.Ecommerce.Application.Validator/1.0.0": {
+        "dependencies": {
+          "FluentValidation": "10.0.4",
+          "FluentValidation.DependencyInjectionExtensions": "10.0.4",
+          "Pacagroup.Ecommerce.Application.DTO": "1.0.0"
+        },
+        "runtime": {
+          "Pacagroup.Ecommerce.Application.Validator.dll": {}
+        },
+        "compile": {
+          "Pacagroup.Ecommerce.Application.Validator.dll": {}
         }
       },
       "Pacagroup.Ecommerce.Domain.Core/1.0.0": {
@@ -1959,6 +2000,9 @@
         }
       },
       "Pacagroup.Ecommerce.Transversal.Common/1.0.0": {
+        "dependencies": {
+          "FluentValidation": "10.0.4"
+        },
         "runtime": {
           "Pacagroup.Ecommerce.Transversal.Common.dll": {}
         },
@@ -3718,6 +3762,20 @@
       "path": "dapper/2.0.78",
       "hashPath": "dapper.2.0.78.nupkg.sha512"
     },
+    "FluentValidation/10.0.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-LqEYHuF5gXBJzG9/aUQS50TJP5cZgh/twvPLV7iTtFFGF6isGBkNXOhr9VwmSjlFRIVOqcMtkGuHwuPbU+XpoQ==",
+      "path": "fluentvalidation/10.0.4",
+      "hashPath": "fluentvalidation.10.0.4.nupkg.sha512"
+    },
+    "FluentValidation.DependencyInjectionExtensions/10.0.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Er3mswiJ8wM0mXoLyKZ16pNQReqeqtq8mN0vJOSgtMfhKql1PlZndjFHNL6XsSJTEkHOymX4uOv0CUVA8Gq9Lw==",
+      "path": "fluentvalidation.dependencyinjectionextensions/10.0.4",
+      "hashPath": "fluentvalidation.dependencyinjectionextensions.10.0.4.nupkg.sha512"
+    },
     "Microsoft.AspNetCore.Authentication.JwtBearer/5.0.3": {
       "type": "package",
       "serviceable": true,
@@ -4681,6 +4739,11 @@
       "sha512": ""
     },
     "Pacagroup.Ecommerce.Application.Main/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Pacagroup.Ecommerce.Application.Validator/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
