@@ -16,7 +16,6 @@ namespace Pacagroup.Ecommerce.Infrastructure.Repository
             _context = context;
         }
 
-
         public Users Authenticate(string userName, string password) 
         {
             using (var connection = _context.CreateConnection())
