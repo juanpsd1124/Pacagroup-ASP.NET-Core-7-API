@@ -10,6 +10,8 @@ using Pacagroup.Ecommerce.Services.WebApi.Modules.Injection;
 using Pacagroup.Ecommerce.Services.WebApi.Modules.Validator;
 using Pacagroup.Ecommerce.Services.WebApi.Modules.Versioning;
 using Microsoft.AspNetCore.Mvc.ApiExplorer;
+using HealthChecks.UI.Client;
+using Pacagroup.Ecommerce.Services.WebApi.Modules.HealthCheck;
 
 namespace Pacagroup.Ecommerce.Services.WebApi
 {
@@ -32,6 +34,7 @@ namespace Pacagroup.Ecommerce.Services.WebApi
             services.AddAuthentication(this.Configuration);
             services.AddVersioning();
             services.AddValidator();
+            services.AddHealthCheck(this.Configuration);
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -51,6 +54,12 @@ namespace Pacagroup.Ecommerce.Services.WebApi
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllers();
+                endpoints.MapHealthChecksUI();
+                endpoints.MapHealthChecks("/health", new Microsoft.AspNetCore.Diagnostics.HealthChecks.HealthCheckOptions
+                {
+                    Predicate = _ => true,
+                    ResponseWriter = UIResponseWriter.WriteHealthCheckUIResponse
+                });
             });
         }
     }

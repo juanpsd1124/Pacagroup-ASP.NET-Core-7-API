@@ -9,17 +9,17 @@ namespace Pacagroup.Ecommerce.Infrastructure.Repository
 {
     public class UsersRepository : IUsersRepository
     {
-        private readonly IConnectionFactory _connectionFactory;
+        private readonly DapperContext _context;
 
-        public UsersRepository(IConnectionFactory connectionFactory) {
-            _connectionFactory = connectionFactory;
-
+        public UsersRepository(DapperContext context)
+        {
+            _context = context;
         }
 
 
         public Users Authenticate(string userName, string password) 
         {
-            using (var connection = _connectionFactory.GetConnection)
+            using (var connection = _context.CreateConnection())
             {
                 var query = "UsersGetByUserAndpassword";
                 var parameters = new DynamicParameters();
