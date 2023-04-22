@@ -17,6 +17,7 @@ namespace Pacagroup.Ecommerce.Application.Interface
 
         Response<CustomersDto> Get(string customerId);
         Response<IEnumerable<CustomersDto>> GetAll();
+        ResponsePagination<IEnumerable<CustomersDto>> GetAllWithPagination(int pageNumber, int pageSize);
 
         #endregion
 
@@ -27,6 +28,7 @@ namespace Pacagroup.Ecommerce.Application.Interface
 
         Task<Response<CustomersDto>> GetAsync(string customerId);
         Task<Response<IEnumerable<CustomersDto>>> GetAllAsync();
+        Task<ResponsePagination<IEnumerable<CustomersDto>>> GetAllWithPaginationAsync(int pageNumber, int pageSize);
         #endregion
     }
 }

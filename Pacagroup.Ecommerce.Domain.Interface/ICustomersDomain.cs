@@ -13,9 +13,13 @@ namespace Pacagroup.Ecommerce.Domain.Interface
         bool Insert(Customers customer);
         bool Update(Customers customer);
         bool Delete(string customerId);
+        IEnumerable<Customers> GetAllWithPagination(int pageNumber, int pageSize);
+        int Count();
 
         Customers Get(string customerId);
         IEnumerable<Customers> GetAll();
+        Task<IEnumerable<Customers>> GetAllWithPaginationAsync(int pageNumber, int pageSize);
+        Task<int> CountAsync();
 
         #endregion
 
