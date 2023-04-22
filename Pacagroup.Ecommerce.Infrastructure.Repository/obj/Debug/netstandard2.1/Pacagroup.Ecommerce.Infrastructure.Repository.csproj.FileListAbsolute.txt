@@ -17,3 +17,22 @@ C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ec
 C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infrastructure.Repository\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Infrastructure.Repository.csproj.CopyComplete
 C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infrastructure.Repository\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Infrastructure.Repository.dll
 C:\Users\jposada\Documents\Groware\Course Tests\Pacagroup.Ecommerce\Pacagroup.Ecommerce.Infrastructure.Repository\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Infrastructure.Repository.pdb
+C:\Users\Juan Posada\Documents\Groware Test\Pacagroup-ASP.NET-Core-7-API\Pacagroup.Ecommerce.Infrastructure.Repository\bin\Debug\netstandard2.1\Pacagroup.Ecommerce.Infrastructure.Repository.deps.json
+C:\Users\Juan Posada\Documents\Groware Test\Pacagroup-ASP.NET-Core-7-API\Pacagroup.Ecommerce.Infrastructure.Repository\bin\Debug\netstandard2.1\Pacagroup.Ecommerce.Infrastructure.Repository.dll
+C:\Users\Juan Posada\Documents\Groware Test\Pacagroup-ASP.NET-Core-7-API\Pacagroup.Ecommerce.Infrastructure.Repository\bin\Debug\netstandard2.1\Pacagroup.Ecommerce.Infrastructure.Repository.pdb
+C:\Users\Juan Posada\Documents\Groware Test\Pacagroup-ASP.NET-Core-7-API\Pacagroup.Ecommerce.Infrastructure.Repository\bin\Debug\netstandard2.1\Pacagroup.Ecommerce.Domain.Entity.dll
+C:\Users\Juan Posada\Documents\Groware Test\Pacagroup-ASP.NET-Core-7-API\Pacagroup.Ecommerce.Infrastructure.Repository\bin\Debug\netstandard2.1\Pacagroup.Ecommerce.Infrastructure.Data.dll
+C:\Users\Juan Posada\Documents\Groware Test\Pacagroup-ASP.NET-Core-7-API\Pacagroup.Ecommerce.Infrastructure.Repository\bin\Debug\netstandard2.1\Pacagroup.Ecommerce.Infrastructure.Interface.dll
+C:\Users\Juan Posada\Documents\Groware Test\Pacagroup-ASP.NET-Core-7-API\Pacagroup.Ecommerce.Infrastructure.Repository\bin\Debug\netstandard2.1\Pacagroup.Ecommerce.Transversal.Common.dll
+C:\Users\Juan Posada\Documents\Groware Test\Pacagroup-ASP.NET-Core-7-API\Pacagroup.Ecommerce.Infrastructure.Repository\bin\Debug\netstandard2.1\Pacagroup.Ecommerce.Infrastructure.Data.pdb
+C:\Users\Juan Posada\Documents\Groware Test\Pacagroup-ASP.NET-Core-7-API\Pacagroup.Ecommerce.Infrastructure.Repository\bin\Debug\netstandard2.1\Pacagroup.Ecommerce.Infrastructure.Interface.pdb
+C:\Users\Juan Posada\Documents\Groware Test\Pacagroup-ASP.NET-Core-7-API\Pacagroup.Ecommerce.Infrastructure.Repository\bin\Debug\netstandard2.1\Pacagroup.Ecommerce.Transversal.Common.pdb
+C:\Users\Juan Posada\Documents\Groware Test\Pacagroup-ASP.NET-Core-7-API\Pacagroup.Ecommerce.Infrastructure.Repository\bin\Debug\netstandard2.1\Pacagroup.Ecommerce.Domain.Entity.pdb
+C:\Users\Juan Posada\Documents\Groware Test\Pacagroup-ASP.NET-Core-7-API\Pacagroup.Ecommerce.Infrastructure.Repository\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Infrastructure.Repository.csproj.AssemblyReference.cache
+C:\Users\Juan Posada\Documents\Groware Test\Pacagroup-ASP.NET-Core-7-API\Pacagroup.Ecommerce.Infrastructure.Repository\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Infrastructure.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan Posada\Documents\Groware Test\Pacagroup-ASP.NET-Core-7-API\Pacagroup.Ecommerce.Infrastructure.Repository\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Infrastructure.Repository.AssemblyInfoInputs.cache
+C:\Users\Juan Posada\Documents\Groware Test\Pacagroup-ASP.NET-Core-7-API\Pacagroup.Ecommerce.Infrastructure.Repository\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Infrastructure.Repository.AssemblyInfo.cs
+C:\Users\Juan Posada\Documents\Groware Test\Pacagroup-ASP.NET-Core-7-API\Pacagroup.Ecommerce.Infrastructure.Repository\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Infrastructure.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Juan Posada\Documents\Groware Test\Pacagroup-ASP.NET-Core-7-API\Pacagroup.Ecommerce.Infrastructure.Repository\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Infrastructure.Repository.csproj.CopyComplete
+C:\Users\Juan Posada\Documents\Groware Test\Pacagroup-ASP.NET-Core-7-API\Pacagroup.Ecommerce.Infrastructure.Repository\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Infrastructure.Repository.dll
+C:\Users\Juan Posada\Documents\Groware Test\Pacagroup-ASP.NET-Core-7-API\Pacagroup.Ecommerce.Infrastructure.Repository\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Infrastructure.Repository.pdb

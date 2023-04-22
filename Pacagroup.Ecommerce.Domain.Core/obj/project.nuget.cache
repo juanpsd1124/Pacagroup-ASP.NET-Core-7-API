@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jrvhnRbJmNhLyAKCFbjVgDYLyKuaZC9bb9dbukNFC0Ga11lmwrhamyZQ5YzuJ84/40ANB9PE6W/JSbWWTS+4mg==",
+  "dgSpecHash": "wj+kr16xUnKSkWYf3GOOkzPKejzr7QROI27MjgfNly4K+djqMmpl1e+Q0GLUhMJHdBynhI3sdOmbegDj95cawg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jposada\\Documents\\Groware\\Course Tests\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Domain.Core\\Pacagroup.Ecommerce.Domain.Core.csproj",
+  "projectFilePath": "C:\\Users\\Juan Posada\\Documents\\Groware Test\\Pacagroup-ASP.NET-Core-7-API\\Pacagroup.Ecommerce.Domain.Core\\Pacagroup.Ecommerce.Domain.Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

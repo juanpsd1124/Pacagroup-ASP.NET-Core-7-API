@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "hhQk6RF41my/xlSgwThmTklJgyjoLHpiky+7E4xoI2yvqj053DJV1UX22uOdCS3CGDgyzkTScRBYaatdrwJ4Sw==",
+  "dgSpecHash": "5QMwenWSAvB3MQKrG8/oYIMzPyCx4QPW1XrYfcINrkl/kLTZ5pAnBgX2K39CAnMPQLMTL7RGHXgv17bvkbL+uA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jposada\\Documents\\Groware\\Course Tests\\Pacagroup.Ecommerce\\Pacagroup.Ecommerce.Transversal.Common\\Pacagroup.Ecommerce.Transversal.Common.csproj",
+  "projectFilePath": "C:\\Users\\Juan Posada\\Documents\\Groware Test\\Pacagroup-ASP.NET-Core-7-API\\Pacagroup.Ecommerce.Transversal.Common\\Pacagroup.Ecommerce.Transversal.Common.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\jposada\\.nuget\\packages\\fluentvalidation\\11.5.2\\fluentvalidation.11.5.2.nupkg.sha512"
+    "C:\\Users\\Juan Posada\\.nuget\\packages\\fluentvalidation\\11.5.2\\fluentvalidation.11.5.2.nupkg.sha512"
   ],
   "logs": []
 }
