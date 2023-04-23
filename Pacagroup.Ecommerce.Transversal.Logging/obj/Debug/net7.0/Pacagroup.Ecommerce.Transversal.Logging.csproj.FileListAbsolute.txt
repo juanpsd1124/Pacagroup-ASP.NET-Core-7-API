@@ -1,0 +1,15 @@
+C:\Users\Juan Posada\Documents\Groware Test\Pacagroup-ASP.NET-Core-7-API\Pacagroup.Ecommerce.Transversal.Logging\bin\Debug\net7.0\Pacagroup.Ecommerce.Transversal.Logging.deps.json
+C:\Users\Juan Posada\Documents\Groware Test\Pacagroup-ASP.NET-Core-7-API\Pacagroup.Ecommerce.Transversal.Logging\bin\Debug\net7.0\Pacagroup.Ecommerce.Transversal.Logging.dll
+C:\Users\Juan Posada\Documents\Groware Test\Pacagroup-ASP.NET-Core-7-API\Pacagroup.Ecommerce.Transversal.Logging\bin\Debug\net7.0\Pacagroup.Ecommerce.Transversal.Logging.pdb
+C:\Users\Juan Posada\Documents\Groware Test\Pacagroup-ASP.NET-Core-7-API\Pacagroup.Ecommerce.Transversal.Logging\bin\Debug\net7.0\Pacagroup.Ecommerce.Transversal.Common.dll
+C:\Users\Juan Posada\Documents\Groware Test\Pacagroup-ASP.NET-Core-7-API\Pacagroup.Ecommerce.Transversal.Logging\bin\Debug\net7.0\Pacagroup.Ecommerce.Transversal.Common.pdb
+C:\Users\Juan Posada\Documents\Groware Test\Pacagroup-ASP.NET-Core-7-API\Pacagroup.Ecommerce.Transversal.Logging\obj\Debug\net7.0\Pacagroup.Ecommerce.Transversal.Logging.csproj.AssemblyReference.cache
+C:\Users\Juan Posada\Documents\Groware Test\Pacagroup-ASP.NET-Core-7-API\Pacagroup.Ecommerce.Transversal.Logging\obj\Debug\net7.0\Pacagroup.Ecommerce.Transversal.Logging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan Posada\Documents\Groware Test\Pacagroup-ASP.NET-Core-7-API\Pacagroup.Ecommerce.Transversal.Logging\obj\Debug\net7.0\Pacagroup.Ecommerce.Transversal.Logging.AssemblyInfoInputs.cache
+C:\Users\Juan Posada\Documents\Groware Test\Pacagroup-ASP.NET-Core-7-API\Pacagroup.Ecommerce.Transversal.Logging\obj\Debug\net7.0\Pacagroup.Ecommerce.Transversal.Logging.AssemblyInfo.cs
+C:\Users\Juan Posada\Documents\Groware Test\Pacagroup-ASP.NET-Core-7-API\Pacagroup.Ecommerce.Transversal.Logging\obj\Debug\net7.0\Pacagroup.Ecommerce.Transversal.Logging.csproj.CoreCompileInputs.cache
+C:\Users\Juan Posada\Documents\Groware Test\Pacagroup-ASP.NET-Core-7-API\Pacagroup.Ecommerce.Transversal.Logging\obj\Debug\net7.0\Pacagroup.Ecommerce.Transversal.Logging.csproj.CopyComplete
+C:\Users\Juan Posada\Documents\Groware Test\Pacagroup-ASP.NET-Core-7-API\Pacagroup.Ecommerce.Transversal.Logging\obj\Debug\net7.0\Pacagroup.Ecommerce.Transversal.Logging.dll
+C:\Users\Juan Posada\Documents\Groware Test\Pacagroup-ASP.NET-Core-7-API\Pacagroup.Ecommerce.Transversal.Logging\obj\Debug\net7.0\refint\Pacagroup.Ecommerce.Transversal.Logging.dll
+C:\Users\Juan Posada\Documents\Groware Test\Pacagroup-ASP.NET-Core-7-API\Pacagroup.Ecommerce.Transversal.Logging\obj\Debug\net7.0\Pacagroup.Ecommerce.Transversal.Logging.pdb
+C:\Users\Juan Posada\Documents\Groware Test\Pacagroup-ASP.NET-Core-7-API\Pacagroup.Ecommerce.Transversal.Logging\obj\Debug\net7.0\ref\Pacagroup.Ecommerce.Transversal.Logging.dll
