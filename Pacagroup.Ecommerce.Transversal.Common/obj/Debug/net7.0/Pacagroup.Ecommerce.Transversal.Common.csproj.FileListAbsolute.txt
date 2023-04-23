@@ -1,0 +1,12 @@
+C:\Users\Juan Posada\Documents\Groware Test\Pacagroup-ASP.NET-Core-7-API\Pacagroup.Ecommerce.Transversal.Common\bin\Debug\net7.0\Pacagroup.Ecommerce.Transversal.Common.deps.json
+C:\Users\Juan Posada\Documents\Groware Test\Pacagroup-ASP.NET-Core-7-API\Pacagroup.Ecommerce.Transversal.Common\bin\Debug\net7.0\Pacagroup.Ecommerce.Transversal.Common.dll
+C:\Users\Juan Posada\Documents\Groware Test\Pacagroup-ASP.NET-Core-7-API\Pacagroup.Ecommerce.Transversal.Common\bin\Debug\net7.0\Pacagroup.Ecommerce.Transversal.Common.pdb
+C:\Users\Juan Posada\Documents\Groware Test\Pacagroup-ASP.NET-Core-7-API\Pacagroup.Ecommerce.Transversal.Common\obj\Debug\net7.0\Pacagroup.Ecommerce.Transversal.Common.csproj.AssemblyReference.cache
+C:\Users\Juan Posada\Documents\Groware Test\Pacagroup-ASP.NET-Core-7-API\Pacagroup.Ecommerce.Transversal.Common\obj\Debug\net7.0\Pacagroup.Ecommerce.Transversal.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan Posada\Documents\Groware Test\Pacagroup-ASP.NET-Core-7-API\Pacagroup.Ecommerce.Transversal.Common\obj\Debug\net7.0\Pacagroup.Ecommerce.Transversal.Common.AssemblyInfoInputs.cache
+C:\Users\Juan Posada\Documents\Groware Test\Pacagroup-ASP.NET-Core-7-API\Pacagroup.Ecommerce.Transversal.Common\obj\Debug\net7.0\Pacagroup.Ecommerce.Transversal.Common.AssemblyInfo.cs
+C:\Users\Juan Posada\Documents\Groware Test\Pacagroup-ASP.NET-Core-7-API\Pacagroup.Ecommerce.Transversal.Common\obj\Debug\net7.0\Pacagroup.Ecommerce.Transversal.Common.csproj.CoreCompileInputs.cache
+C:\Users\Juan Posada\Documents\Groware Test\Pacagroup-ASP.NET-Core-7-API\Pacagroup.Ecommerce.Transversal.Common\obj\Debug\net7.0\Pacagroup.Ecommerce.Transversal.Common.dll
+C:\Users\Juan Posada\Documents\Groware Test\Pacagroup-ASP.NET-Core-7-API\Pacagroup.Ecommerce.Transversal.Common\obj\Debug\net7.0\refint\Pacagroup.Ecommerce.Transversal.Common.dll
+C:\Users\Juan Posada\Documents\Groware Test\Pacagroup-ASP.NET-Core-7-API\Pacagroup.Ecommerce.Transversal.Common\obj\Debug\net7.0\Pacagroup.Ecommerce.Transversal.Common.pdb
+C:\Users\Juan Posada\Documents\Groware Test\Pacagroup-ASP.NET-Core-7-API\Pacagroup.Ecommerce.Transversal.Common\obj\Debug\net7.0\ref\Pacagroup.Ecommerce.Transversal.Common.dll

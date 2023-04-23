@@ -1,0 +1,76 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Pacagroup.Ecommerce.Application.Interface/1.0.0": {
+        "dependencies": {
+          "Pacagroup.Ecommerce.Application.DTO": "1.0.0",
+          "Pacagroup.Ecommerce.Domain.Entity": "1.0.0",
+          "Pacagroup.Ecommerce.Transversal.Common": "1.0.0"
+        },
+        "runtime": {
+          "Pacagroup.Ecommerce.Application.Interface.dll": {}
+        }
+      },
+      "FluentValidation/11.5.2": {
+        "runtime": {
+          "lib/net7.0/FluentValidation.dll": {
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.5.2.0"
+          }
+        }
+      },
+      "Pacagroup.Ecommerce.Application.DTO/1.0.0": {
+        "runtime": {
+          "Pacagroup.Ecommerce.Application.DTO.dll": {}
+        }
+      },
+      "Pacagroup.Ecommerce.Domain.Entity/1.0.0": {
+        "runtime": {
+          "Pacagroup.Ecommerce.Domain.Entity.dll": {}
+        }
+      },
+      "Pacagroup.Ecommerce.Transversal.Common/1.0.0": {
+        "dependencies": {
+          "FluentValidation": "11.5.2"
+        },
+        "runtime": {
+          "Pacagroup.Ecommerce.Transversal.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pacagroup.Ecommerce.Application.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FluentValidation/11.5.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kj/hW/iusp2zq1Vt1YPLgDj6UG0DhoJXGkLwjLwm3j7vUtRF8DVA5vHJfItG3BxDjLWJUR2pvw8fK7rnuysZNA==",
+      "path": "fluentvalidation/11.5.2",
+      "hashPath": "fluentvalidation.11.5.2.nupkg.sha512"
+    },
+    "Pacagroup.Ecommerce.Application.DTO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Pacagroup.Ecommerce.Domain.Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Pacagroup.Ecommerce.Transversal.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

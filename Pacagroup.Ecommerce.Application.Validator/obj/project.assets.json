@@ -1,16 +1,16 @@
 {
   "version": 3,
   "targets": {
-    ".NETStandard,Version=v2.1": {
+    "net7.0": {
       "FluentValidation/11.5.2": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.1/FluentValidation.dll": {
+          "lib/net7.0/FluentValidation.dll": {
             "related": ".xml"
           }
         },
         "runtime": {
-          "lib/netstandard2.1/FluentValidation.dll": {
+          "lib/net7.0/FluentValidation.dll": {
             "related": ".xml"
           }
         }
@@ -47,7 +47,7 @@
       },
       "Pacagroup.Ecommerce.Application.DTO/1.0.0": {
         "type": "project",
-        "framework": ".NETStandard,Version=v2.1",
+        "framework": ".NETCoreApp,Version=v7.0",
         "compile": {
           "bin/placeholder/Pacagroup.Ecommerce.Application.DTO.dll": {}
         },
@@ -118,7 +118,7 @@
     }
   },
   "projectFileDependencyGroups": {
-    ".NETStandard,Version=v2.1": [
+    "net7.0": [
       "FluentValidation >= 11.5.2",
       "FluentValidation.DependencyInjectionExtensions >= 11.5.2",
       "Pacagroup.Ecommerce.Application.DTO >= 1.0.0"
@@ -146,7 +146,7 @@
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "netstandard2.1"
+        "net7.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -154,8 +154,8 @@
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "netstandard2.1": {
-          "targetAlias": "netstandard2.1",
+        "net7.0": {
+          "targetAlias": "net7.0",
           "projectReferences": {
             "C:\\Users\\Juan Posada\\Documents\\Groware Test\\Pacagroup-ASP.NET-Core-7-API\\Pacagroup.Ecommerce.Application.DTO\\Pacagroup.Ecommerce.Application.DTO.csproj": {
               "projectPath": "C:\\Users\\Juan Posada\\Documents\\Groware Test\\Pacagroup-ASP.NET-Core-7-API\\Pacagroup.Ecommerce.Application.DTO\\Pacagroup.Ecommerce.Application.DTO.csproj"
@@ -170,8 +170,8 @@
       }
     },
     "frameworks": {
-      "netstandard2.1": {
-        "targetAlias": "netstandard2.1",
+      "net7.0": {
+        "targetAlias": "net7.0",
         "dependencies": {
           "FluentValidation": {
             "target": "Package",
@@ -194,7 +194,7 @@
         "assetTargetFallback": true,
         "warn": true,
         "frameworkReferences": {
-          "NETStandard.Library": {
+          "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },

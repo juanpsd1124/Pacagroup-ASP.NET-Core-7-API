@@ -5497,7 +5497,7 @@
       },
       "Pacagroup.Ecommerce.Application.DTO/1.0.0": {
         "type": "project",
-        "framework": ".NETStandard,Version=v2.1",
+        "framework": ".NETCoreApp,Version=v7.0",
         "compile": {
           "bin/placeholder/Pacagroup.Ecommerce.Application.DTO.dll": {}
         },
@@ -5507,7 +5507,7 @@
       },
       "Pacagroup.Ecommerce.Application.Interface/1.0.0": {
         "type": "project",
-        "framework": ".NETStandard,Version=v2.1",
+        "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
           "Pacagroup.Ecommerce.Application.DTO": "1.0.0",
           "Pacagroup.Ecommerce.Domain.Entity": "1.0.0",
@@ -5522,7 +5522,7 @@
       },
       "Pacagroup.Ecommerce.Application.UseCases/1.0.0": {
         "type": "project",
-        "framework": ".NETStandard,Version=v2.1",
+        "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
           "AutoMapper": "12.0.1",
           "Pacagroup.Ecommerce.Application.DTO": "1.0.0",
@@ -5540,7 +5540,7 @@
       },
       "Pacagroup.Ecommerce.Application.Validator/1.0.0": {
         "type": "project",
-        "framework": ".NETStandard,Version=v2.1",
+        "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
           "FluentValidation": "11.5.2",
           "FluentValidation.DependencyInjectionExtensions": "11.5.2",
@@ -5555,7 +5555,7 @@
       },
       "Pacagroup.Ecommerce.Domain.Entity/1.0.0": {
         "type": "project",
-        "framework": ".NETStandard,Version=v2.1",
+        "framework": ".NETCoreApp,Version=v7.0",
         "compile": {
           "bin/placeholder/Pacagroup.Ecommerce.Domain.Entity.dll": {}
         },
@@ -5565,7 +5565,7 @@
       },
       "Pacagroup.Ecommerce.Persistence/1.0.0": {
         "type": "project",
-        "framework": ".NETStandard,Version=v2.1",
+        "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
           "Dapper": "2.0.123",
           "Microsoft.Extensions.Configuration": "7.0.0",
@@ -5583,7 +5583,7 @@
       },
       "Pacagroup.Ecommerce.Transversal.Common/1.0.0": {
         "type": "project",
-        "framework": ".NETStandard,Version=v2.1",
+        "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
           "FluentValidation": "11.5.2"
         },
@@ -5611,7 +5611,7 @@
       },
       "Pacagroup.Ecommerce.Transversal.Mapper/1.0.0": {
         "type": "project",
-        "framework": ".NETStandard,Version=v2.1",
+        "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
           "AutoMapper": "12.0.1",
           "Pacagroup.Ecommerce.Application.DTO": "1.0.0",
