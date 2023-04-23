@@ -1,0 +1,148 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Juan Posada\\Documents\\Groware Test\\Pacagroup-ASP.NET-Core-7-API\\Pacagroup.Ecommerce.Persistence.Data\\Pacagroup.Ecommerce.Persistence.Data.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Juan Posada\\Documents\\Groware Test\\Pacagroup-ASP.NET-Core-7-API\\Pacagroup.Ecommerce.Persistence.Data\\Pacagroup.Ecommerce.Persistence.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Juan Posada\\Documents\\Groware Test\\Pacagroup-ASP.NET-Core-7-API\\Pacagroup.Ecommerce.Persistence.Data\\Pacagroup.Ecommerce.Persistence.Data.csproj",
+        "projectName": "Pacagroup.Ecommerce.Persistence.Data",
+        "projectPath": "C:\\Users\\Juan Posada\\Documents\\Groware Test\\Pacagroup-ASP.NET-Core-7-API\\Pacagroup.Ecommerce.Persistence.Data\\Pacagroup.Ecommerce.Persistence.Data.csproj",
+        "packagesPath": "C:\\Users\\Juan Posada\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Juan Posada\\Documents\\Groware Test\\Pacagroup-ASP.NET-Core-7-API\\Pacagroup.Ecommerce.Persistence.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Juan Posada\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\Juan Posada\\Documents\\Groware Test\\Pacagroup-ASP.NET-Core-7-API\\Pacagroup.Ecommerce.Transversal.Common\\Pacagroup.Ecommerce.Transversal.Common.csproj": {
+                "projectPath": "C:\\Users\\Juan Posada\\Documents\\Groware Test\\Pacagroup-ASP.NET-Core-7-API\\Pacagroup.Ecommerce.Transversal.Common\\Pacagroup.Ecommerce.Transversal.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Juan Posada\\Documents\\Groware Test\\Pacagroup-ASP.NET-Core-7-API\\Pacagroup.Ecommerce.Transversal.Common\\Pacagroup.Ecommerce.Transversal.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Juan Posada\\Documents\\Groware Test\\Pacagroup-ASP.NET-Core-7-API\\Pacagroup.Ecommerce.Transversal.Common\\Pacagroup.Ecommerce.Transversal.Common.csproj",
+        "projectName": "Pacagroup.Ecommerce.Transversal.Common",
+        "projectPath": "C:\\Users\\Juan Posada\\Documents\\Groware Test\\Pacagroup-ASP.NET-Core-7-API\\Pacagroup.Ecommerce.Transversal.Common\\Pacagroup.Ecommerce.Transversal.Common.csproj",
+        "packagesPath": "C:\\Users\\Juan Posada\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Juan Posada\\Documents\\Groware Test\\Pacagroup-ASP.NET-Core-7-API\\Pacagroup.Ecommerce.Transversal.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Juan Posada\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.5.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

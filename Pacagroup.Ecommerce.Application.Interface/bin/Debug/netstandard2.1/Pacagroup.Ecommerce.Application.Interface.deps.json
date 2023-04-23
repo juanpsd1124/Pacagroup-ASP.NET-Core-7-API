@@ -10,6 +10,7 @@
       "Pacagroup.Ecommerce.Application.Interface/1.0.0": {
         "dependencies": {
           "Pacagroup.Ecommerce.Application.DTO": "1.0.0",
+          "Pacagroup.Ecommerce.Domain.Entity": "1.0.0",
           "Pacagroup.Ecommerce.Transversal.Common": "1.0.0"
         },
         "runtime": {
@@ -27,6 +28,11 @@
       "Pacagroup.Ecommerce.Application.DTO/1.0.0": {
         "runtime": {
           "Pacagroup.Ecommerce.Application.DTO.dll": {}
+        }
+      },
+      "Pacagroup.Ecommerce.Domain.Entity/1.0.0": {
+        "runtime": {
+          "Pacagroup.Ecommerce.Domain.Entity.dll": {}
         }
       },
       "Pacagroup.Ecommerce.Transversal.Common/1.0.0": {
@@ -53,6 +59,11 @@
       "hashPath": "fluentvalidation.11.5.2.nupkg.sha512"
     },
     "Pacagroup.Ecommerce.Application.DTO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Pacagroup.Ecommerce.Domain.Entity/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

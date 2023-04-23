@@ -1,23 +1,23 @@
 ﻿using System;
 using AutoMapper;
 using Pacagroup.Ecommerce.Application.DTO;
-using Pacagroup.Ecommerce.Application.Interface;
 using Pacagroup.Ecommerce.Domain.Entity;
-using Pacagroup.Ecommerce.Domain.Interface;
 using Pacagroup.Ecommerce.Transversal.Common;
 using System.Threading.Tasks;
 using System.Collections.Generic;
+using Pacagroup.Ecommerce.Application.Interface.UseCases;
+using Pacagroup.Ecommerce.Application.Interface.Persistence;
 
-namespace Pacagroup.Ecommerce.Application.Main
+namespace Pacagroup.Ecommerce.Application.UseCases
 {
     public class CustomersApplication : ICustomersApplication
     {
-        private readonly ICustomersDomain _customersDomain;
+        private readonly IUnitOfWork _unitOfWork;
         private readonly IMapper _mapper;
         private readonly IAppLogger<CustomersApplication> _logger;
-        public CustomersApplication(ICustomersDomain customersDomain, IMapper mapper, IAppLogger<CustomersApplication> logger)
+        public CustomersApplication(IUnitOfWork unitOfWork, IMapper mapper, IAppLogger<CustomersApplication> logger)
         {
-            _customersDomain = customersDomain;
+            _unitOfWork = unitOfWork;
             _mapper = mapper;
             _logger = logger;
         }
@@ -30,7 +30,7 @@ namespace Pacagroup.Ecommerce.Application.Main
             try
             {
                 var customer = _mapper.Map<Customers>(customersDto);
-                response.Data = _customersDomain.Insert(customer);
+                response.Data = _unitOfWork.Customers.Insert(customer);
                 if (response.Data)
                 {
                     response.IsSuccess = true;
@@ -50,7 +50,7 @@ namespace Pacagroup.Ecommerce.Application.Main
             try
             {
                 var customer = _mapper.Map<Customers>(customersDto);
-                response.Data = _customersDomain.Update(customer);
+                response.Data = _unitOfWork.Customers.Update(customer);
                 if (response.Data)
                 {
                     response.IsSuccess = true;
@@ -69,7 +69,7 @@ namespace Pacagroup.Ecommerce.Application.Main
             var response = new Response<bool>();
             try
             {
-                response.Data = _customersDomain.Delete(customerId);
+                response.Data = _unitOfWork.Customers.Delete(customerId);
                 if (response.Data)
                 {
                     response.IsSuccess = true;
@@ -88,7 +88,7 @@ namespace Pacagroup.Ecommerce.Application.Main
             var response = new Response<CustomersDto>();
             try
             {
-                var customer = _customersDomain.Get(customerId);
+                var customer = _unitOfWork.Customers.Get(customerId);
                 response.Data = _mapper.Map<CustomersDto>(customer);
                 if (response.Data != null)
                 {
@@ -108,7 +108,7 @@ namespace Pacagroup.Ecommerce.Application.Main
             var response = new Response<IEnumerable<CustomersDto>>();
             try
             {
-                var customers = _customersDomain.GetAll();
+                var customers = _unitOfWork.Customers.GetAll();
                 response.Data = _mapper.Map<IEnumerable<CustomersDto>>(customers);
                 if (response.Data != null)
                 {
@@ -130,9 +130,9 @@ namespace Pacagroup.Ecommerce.Application.Main
             var response = new ResponsePagination<IEnumerable<CustomersDto>>();
             try
             {
-                var count = _customersDomain.Count();
+                var count = _unitOfWork.Customers.Count();
 
-                var customers = _customersDomain.GetAllWithPagination(pageNumber, pageSize);
+                var customers = _unitOfWork.Customers.GetAllWithPagination(pageNumber, pageSize);
                 response.Data = _mapper.Map<IEnumerable<CustomersDto>>(customers);
 
                 if (response.Data != null)
@@ -160,7 +160,7 @@ namespace Pacagroup.Ecommerce.Application.Main
             try
             {
                 var customer = _mapper.Map<Customers>(customersDto);
-                response.Data = await _customersDomain.InsertAsync(customer);
+                response.Data = await _unitOfWork.Customers.InsertAsync(customer);
                 if (response.Data)
                 {
                     response.IsSuccess = true;
@@ -179,7 +179,7 @@ namespace Pacagroup.Ecommerce.Application.Main
             try
             {
                 var customer = _mapper.Map<Customers>(customersDto);
-                response.Data = await _customersDomain.UpdateAsync(customer);
+                response.Data = await _unitOfWork.Customers.UpdateAsync(customer);
                 if (response.Data)
                 {
                     response.IsSuccess = true;
@@ -198,7 +198,7 @@ namespace Pacagroup.Ecommerce.Application.Main
             var response = new Response<bool>();
             try
             {
-                response.Data = await _customersDomain.DeleteAsync(customerId);
+                response.Data = await _unitOfWork.Customers.DeleteAsync(customerId);
                 if (response.Data)
                 {
                     response.IsSuccess = true;
@@ -217,7 +217,7 @@ namespace Pacagroup.Ecommerce.Application.Main
             var response = new Response<CustomersDto>();
             try
             {
-                var customer = await _customersDomain.GetAsync(customerId);
+                var customer = await _unitOfWork.Customers.GetAsync(customerId);
                 response.Data = _mapper.Map<CustomersDto>(customer);
                 if (response.Data != null)
                 {
@@ -236,7 +236,7 @@ namespace Pacagroup.Ecommerce.Application.Main
             var response = new Response<IEnumerable<CustomersDto>>();
             try
             {
-                var customers = await _customersDomain.GetAllAsync();
+                var customers = await _unitOfWork.Customers.GetAllAsync();
                 response.Data = _mapper.Map<IEnumerable<CustomersDto>>(customers);
                 if (response.Data != null)
                 {
@@ -255,9 +255,9 @@ namespace Pacagroup.Ecommerce.Application.Main
             var response = new ResponsePagination<IEnumerable<CustomersDto>>();
             try
             {
-                var count = await _customersDomain.CountAsync();
+                var count = await _unitOfWork.Customers.CountAsync();
 
-                var customers = await _customersDomain.GetAllWithPaginationAsync(pageNumber, pageSize);
+                var customers = await _unitOfWork.Customers.GetAllWithPaginationAsync(pageNumber, pageSize);
                 response.Data = _mapper.Map<IEnumerable<CustomersDto>>(customers);
 
                 if (response.Data != null)

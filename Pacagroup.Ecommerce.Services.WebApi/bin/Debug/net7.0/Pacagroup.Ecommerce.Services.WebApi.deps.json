@@ -21,14 +21,11 @@
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "7.0.6",
           "Pacagroup.Ecommerce.Application.DTO": "1.0.0",
           "Pacagroup.Ecommerce.Application.Interface": "1.0.0",
-          "Pacagroup.Ecommerce.Application.Main": "1.0.0",
+          "Pacagroup.Ecommerce.Application.UseCases": "1.0.0",
           "Pacagroup.Ecommerce.Application.Validator": "1.0.0",
-          "Pacagroup.Ecommerce.Domain.Core": "1.0.0",
           "Pacagroup.Ecommerce.Domain.Entity": "1.0.0",
-          "Pacagroup.Ecommerce.Domain.Interface": "1.0.0",
-          "Pacagroup.Ecommerce.Infrastructure.Data": "1.0.0",
-          "Pacagroup.Ecommerce.Infrastructure.Interface": "1.0.0",
-          "Pacagroup.Ecommerce.Infrastructure.Repository": "1.0.0",
+          "Pacagroup.Ecommerce.Persistence.Data": "1.0.0",
+          "Pacagroup.Ecommerce.Persistence.Repository": "1.0.0",
           "Pacagroup.Ecommerce.Transversal.Common": "1.0.0",
           "Pacagroup.Ecommerce.Transversal.Logging": "1.0.0",
           "Pacagroup.Ecommerce.Transversal.Mapper": "1.0.0",
@@ -3274,24 +3271,24 @@
       "Pacagroup.Ecommerce.Application.Interface/1.0.0": {
         "dependencies": {
           "Pacagroup.Ecommerce.Application.DTO": "1.0.0",
+          "Pacagroup.Ecommerce.Domain.Entity": "1.0.0",
           "Pacagroup.Ecommerce.Transversal.Common": "1.0.0"
         },
         "runtime": {
           "Pacagroup.Ecommerce.Application.Interface.dll": {}
         }
       },
-      "Pacagroup.Ecommerce.Application.Main/1.0.0": {
+      "Pacagroup.Ecommerce.Application.UseCases/1.0.0": {
         "dependencies": {
           "AutoMapper": "12.0.1",
           "Pacagroup.Ecommerce.Application.DTO": "1.0.0",
           "Pacagroup.Ecommerce.Application.Interface": "1.0.0",
           "Pacagroup.Ecommerce.Application.Validator": "1.0.0",
           "Pacagroup.Ecommerce.Domain.Entity": "1.0.0",
-          "Pacagroup.Ecommerce.Domain.Interface": "1.0.0",
           "Pacagroup.Ecommerce.Transversal.Common": "1.0.0"
         },
         "runtime": {
-          "Pacagroup.Ecommerce.Application.Main.dll": {}
+          "Pacagroup.Ecommerce.Application.UseCases.dll": {}
         }
       },
       "Pacagroup.Ecommerce.Application.Validator/1.0.0": {
@@ -3304,56 +3301,30 @@
           "Pacagroup.Ecommerce.Application.Validator.dll": {}
         }
       },
-      "Pacagroup.Ecommerce.Domain.Core/1.0.0": {
-        "dependencies": {
-          "Pacagroup.Ecommerce.Domain.Entity": "1.0.0",
-          "Pacagroup.Ecommerce.Domain.Interface": "1.0.0",
-          "Pacagroup.Ecommerce.Infrastructure.Interface": "1.0.0"
-        },
-        "runtime": {
-          "Pacagroup.Ecommerce.Domain.Core.dll": {}
-        }
-      },
       "Pacagroup.Ecommerce.Domain.Entity/1.0.0": {
         "runtime": {
           "Pacagroup.Ecommerce.Domain.Entity.dll": {}
         }
       },
-      "Pacagroup.Ecommerce.Domain.Interface/1.0.0": {
-        "dependencies": {
-          "Pacagroup.Ecommerce.Domain.Entity": "1.0.0"
-        },
-        "runtime": {
-          "Pacagroup.Ecommerce.Domain.Interface.dll": {}
-        }
-      },
-      "Pacagroup.Ecommerce.Infrastructure.Data/1.0.0": {
+      "Pacagroup.Ecommerce.Persistence.Data/1.0.0": {
         "dependencies": {
           "Microsoft.Extensions.Configuration": "7.0.0",
           "Pacagroup.Ecommerce.Transversal.Common": "1.0.0",
           "System.Data.SqlClient": "4.8.5"
         },
         "runtime": {
-          "Pacagroup.Ecommerce.Infrastructure.Data.dll": {}
+          "Pacagroup.Ecommerce.Persistence.Data.dll": {}
         }
       },
-      "Pacagroup.Ecommerce.Infrastructure.Interface/1.0.0": {
-        "dependencies": {
-          "Pacagroup.Ecommerce.Domain.Entity": "1.0.0"
-        },
-        "runtime": {
-          "Pacagroup.Ecommerce.Infrastructure.Interface.dll": {}
-        }
-      },
-      "Pacagroup.Ecommerce.Infrastructure.Repository/1.0.0": {
+      "Pacagroup.Ecommerce.Persistence.Repository/1.0.0": {
         "dependencies": {
           "Dapper": "2.0.123",
-          "Pacagroup.Ecommerce.Infrastructure.Data": "1.0.0",
-          "Pacagroup.Ecommerce.Infrastructure.Interface": "1.0.0",
+          "Pacagroup.Ecommerce.Application.Interface": "1.0.0",
+          "Pacagroup.Ecommerce.Persistence.Data": "1.0.0",
           "Pacagroup.Ecommerce.Transversal.Common": "1.0.0"
         },
         "runtime": {
-          "Pacagroup.Ecommerce.Infrastructure.Repository.dll": {}
+          "Pacagroup.Ecommerce.Persistence.Repository.dll": {}
         }
       },
       "Pacagroup.Ecommerce.Transversal.Common/1.0.0": {
@@ -5432,7 +5403,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "Pacagroup.Ecommerce.Application.Main/1.0.0": {
+    "Pacagroup.Ecommerce.Application.UseCases/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
@@ -5442,32 +5413,17 @@
       "serviceable": false,
       "sha512": ""
     },
-    "Pacagroup.Ecommerce.Domain.Core/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
     "Pacagroup.Ecommerce.Domain.Entity/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
-    "Pacagroup.Ecommerce.Domain.Interface/1.0.0": {
+    "Pacagroup.Ecommerce.Persistence.Data/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
-    "Pacagroup.Ecommerce.Infrastructure.Data/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "Pacagroup.Ecommerce.Infrastructure.Interface/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "Pacagroup.Ecommerce.Infrastructure.Repository/1.0.0": {
+    "Pacagroup.Ecommerce.Persistence.Repository/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

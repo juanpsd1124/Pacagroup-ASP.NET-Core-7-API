@@ -76,6 +76,7 @@
       "Pacagroup.Ecommerce.Application.Interface/1.0.0": {
         "dependencies": {
           "Pacagroup.Ecommerce.Application.DTO": "1.0.0",
+          "Pacagroup.Ecommerce.Domain.Entity": "1.0.0",
           "Pacagroup.Ecommerce.Transversal.Common": "1.0.0"
         },
         "runtime": {

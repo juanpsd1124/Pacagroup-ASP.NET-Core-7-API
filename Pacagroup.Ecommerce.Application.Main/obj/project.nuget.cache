@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wnTQwAjPZMF8grWfFqX1B7jWT6u/vRVqG/gFFbSut6esEOFivqKXXgt0rU5vOW5y1SUCbHhDmelzO1vn9FbO3g==",
+  "dgSpecHash": "MHmkvPEXsHe3CPV7uT6oT51Dl62n+8zwLsgEj6M5KB9h7PZJTGnUQW/ER2WCpdLvJMNEb4PjkroyZU1QZpfvvQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Juan Posada\\Documents\\Groware Test\\Pacagroup-ASP.NET-Core-7-API\\Pacagroup.Ecommerce.Application.Main\\Pacagroup.Ecommerce.Application.Main.csproj",
+  "projectFilePath": "C:\\Users\\Juan Posada\\Documents\\Groware Test\\Pacagroup-ASP.NET-Core-7-API\\Pacagroup.Ecommerce.Application.Main\\Pacagroup.Ecommerce.Application.UseCases.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Juan Posada\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Juan Posada\\.nuget\\packages\\fluentvalidation\\11.5.2\\fluentvalidation.11.5.2.nupkg.sha512",
