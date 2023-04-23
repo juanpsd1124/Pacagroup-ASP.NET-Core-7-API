@@ -8,27 +8,27 @@ using System.Collections.Generic;
 using System.Threading.Tasks;
 using Pacagroup.Ecommerce.Application.Interface.Persistence;
 
-namespace Pacagroup.Ecommerce.Application.UseCases
+namespace Pacagroup.Ecommerce.Application.UseCases.Customers
 {
     public class CategoriesApplication : ICategoriesApplication
     {
         private readonly IUnitOfWork _unitOfWork;
         private readonly IMapper _mapper;
 
-        public CategoriesApplication(IUnitOfWork unitOfWork, IMapper mapper )
+        public CategoriesApplication(IUnitOfWork unitOfWork, IMapper mapper)
         {
             _unitOfWork = unitOfWork;
             _mapper = mapper;
         }
 
-        public async Task<Response<IEnumerable<CategoriesDTO>>> GetAll()
+        public async Task<Response<IEnumerable<CategoryDTO>>> GetAll()
         {
-            var response = new Response <IEnumerable<CategoriesDTO>>();
+            var response = new Response<IEnumerable<CategoryDTO>>();
 
-            try 
+            try
             {
                 var categories = await _unitOfWork.Categories.GetAll();
-                response.Data = _mapper.Map<IEnumerable<CategoriesDTO>>(categories);
+                response.Data = _mapper.Map<IEnumerable<CategoryDTO>>(categories);
                 if (response.Data != null)
                 {
                     response.IsSuccess = true;

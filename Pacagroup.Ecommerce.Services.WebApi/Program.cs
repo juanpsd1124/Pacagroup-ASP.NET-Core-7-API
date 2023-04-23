@@ -7,8 +7,8 @@ using Pacagroup.Ecommerce.Services.WebApi.Modules.Mapper;
 using Pacagroup.Ecommerce.Services.WebApi.Modules.RateLimiter;
 using Pacagroup.Ecommerce.Services.WebApi.Modules.Validator;
 using Pacagroup.Ecommerce.Services.WebApi.Modules.Versioning;
-using Pacagroup.Ecommerce.Services.WebApi.Modules.Watch;
-using WatchDog;
+using Pacagroup.Ecommerce.Persistence;
+using Pacagroup.Ecommerce.Application.UseCases;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -18,6 +18,9 @@ builder.Services.AddEndpointsApiExplorer();
 
 builder.Services.AddMapper();
 builder.Services.AddFeature(builder.Configuration);
+builder.Services.AddPersistenceServices();
+builder.Services.AddApplicationServices();
+
 builder.Services.AddInjection(builder.Configuration);
 builder.Services.AddAuthentication(builder.Configuration);
 builder.Services.AddVersioning();

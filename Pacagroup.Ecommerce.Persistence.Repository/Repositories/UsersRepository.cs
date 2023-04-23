@@ -1,10 +1,10 @@
 ﻿using Dapper;
 using Pacagroup.Ecommerce.Domain.Entity;
 using Pacagroup.Ecommerce.Application.Interface.Persistence;
-using Pacagroup.Ecommerce.Persistence.Data;
+using Pacagroup.Ecommerce.Persistence.Context;
 using System.Data;
 
-namespace Pacagroup.Ecommerce.Persistence.Repository
+namespace Pacagroup.Ecommerce.Persistence.Repositories
 {
     public class UsersRepository : IUsersRepository
     {
@@ -15,7 +15,7 @@ namespace Pacagroup.Ecommerce.Persistence.Repository
             _context = context;
         }
 
-        public Users Authenticate(string userName, string password) 
+        public User Authenticate(string userName, string password)
         {
             using (var connection = _context.CreateConnection())
             {
@@ -24,10 +24,10 @@ namespace Pacagroup.Ecommerce.Persistence.Repository
                 parameters.Add("UserName", userName);
                 parameters.Add("Password", password);
 
-                var user = connection.QuerySingle<Users>(query, param: parameters, commandType: CommandType.StoredProcedure);
+                var user = connection.QuerySingle<User>(query, param: parameters, commandType: CommandType.StoredProcedure);
                 return user;
             }
-        
+
         }
 
 

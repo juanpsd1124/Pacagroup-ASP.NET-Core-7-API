@@ -5563,35 +5563,22 @@
           "bin/placeholder/Pacagroup.Ecommerce.Domain.Entity.dll": {}
         }
       },
-      "Pacagroup.Ecommerce.Persistence.Data/1.0.0": {
-        "type": "project",
-        "framework": ".NETStandard,Version=v2.1",
-        "dependencies": {
-          "Microsoft.Extensions.Configuration": "7.0.0",
-          "Pacagroup.Ecommerce.Transversal.Common": "1.0.0",
-          "System.Data.SqlClient": "4.8.5"
-        },
-        "compile": {
-          "bin/placeholder/Pacagroup.Ecommerce.Persistence.Data.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Pacagroup.Ecommerce.Persistence.Data.dll": {}
-        }
-      },
-      "Pacagroup.Ecommerce.Persistence.Repository/1.0.0": {
+      "Pacagroup.Ecommerce.Persistence/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.1",
         "dependencies": {
           "Dapper": "2.0.123",
+          "Microsoft.Extensions.Configuration": "7.0.0",
+          "Microsoft.Extensions.DependencyInjection": "7.0.0",
           "Pacagroup.Ecommerce.Application.Interface": "1.0.0",
-          "Pacagroup.Ecommerce.Persistence.Data": "1.0.0",
-          "Pacagroup.Ecommerce.Transversal.Common": "1.0.0"
+          "Pacagroup.Ecommerce.Transversal.Common": "1.0.0",
+          "System.Data.SqlClient": "4.8.5"
         },
         "compile": {
-          "bin/placeholder/Pacagroup.Ecommerce.Persistence.Repository.dll": {}
+          "bin/placeholder/Pacagroup.Ecommerce.Persistence.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Pacagroup.Ecommerce.Persistence.Repository.dll": {}
+          "bin/placeholder/Pacagroup.Ecommerce.Persistence.dll": {}
         }
       },
       "Pacagroup.Ecommerce.Transversal.Common/1.0.0": {
@@ -14226,15 +14213,10 @@
       "path": "../Pacagroup.Ecommerce.Domain.Entity/Pacagroup.Ecommerce.Domain.Entity.csproj",
       "msbuildProject": "../Pacagroup.Ecommerce.Domain.Entity/Pacagroup.Ecommerce.Domain.Entity.csproj"
     },
-    "Pacagroup.Ecommerce.Persistence.Data/1.0.0": {
+    "Pacagroup.Ecommerce.Persistence/1.0.0": {
       "type": "project",
-      "path": "../Pacagroup.Ecommerce.Persistence.Data/Pacagroup.Ecommerce.Persistence.Data.csproj",
-      "msbuildProject": "../Pacagroup.Ecommerce.Persistence.Data/Pacagroup.Ecommerce.Persistence.Data.csproj"
-    },
-    "Pacagroup.Ecommerce.Persistence.Repository/1.0.0": {
-      "type": "project",
-      "path": "../Pacagroup.Ecommerce.Persistence.Repository/Pacagroup.Ecommerce.Persistence.Repository.csproj",
-      "msbuildProject": "../Pacagroup.Ecommerce.Persistence.Repository/Pacagroup.Ecommerce.Persistence.Repository.csproj"
+      "path": "../Pacagroup.Ecommerce.Persistence.Repository/Pacagroup.Ecommerce.Persistence.csproj",
+      "msbuildProject": "../Pacagroup.Ecommerce.Persistence.Repository/Pacagroup.Ecommerce.Persistence.csproj"
     },
     "Pacagroup.Ecommerce.Transversal.Common/1.0.0": {
       "type": "project",
@@ -14270,8 +14252,7 @@
       "Pacagroup.Ecommerce.Application.UseCases >= 1.0.0",
       "Pacagroup.Ecommerce.Application.Validator >= 1.0.0",
       "Pacagroup.Ecommerce.Domain.Entity >= 1.0.0",
-      "Pacagroup.Ecommerce.Persistence.Data >= 1.0.0",
-      "Pacagroup.Ecommerce.Persistence.Repository >= 1.0.0",
+      "Pacagroup.Ecommerce.Persistence >= 1.0.0",
       "Pacagroup.Ecommerce.Transversal.Common >= 1.0.0",
       "Pacagroup.Ecommerce.Transversal.Logging >= 1.0.0",
       "Pacagroup.Ecommerce.Transversal.Mapper >= 1.0.0",
@@ -14330,11 +14311,8 @@
             "C:\\Users\\Juan Posada\\Documents\\Groware Test\\Pacagroup-ASP.NET-Core-7-API\\Pacagroup.Ecommerce.Domain.Entity\\Pacagroup.Ecommerce.Domain.Entity.csproj": {
               "projectPath": "C:\\Users\\Juan Posada\\Documents\\Groware Test\\Pacagroup-ASP.NET-Core-7-API\\Pacagroup.Ecommerce.Domain.Entity\\Pacagroup.Ecommerce.Domain.Entity.csproj"
             },
-            "C:\\Users\\Juan Posada\\Documents\\Groware Test\\Pacagroup-ASP.NET-Core-7-API\\Pacagroup.Ecommerce.Persistence.Data\\Pacagroup.Ecommerce.Persistence.Data.csproj": {
-              "projectPath": "C:\\Users\\Juan Posada\\Documents\\Groware Test\\Pacagroup-ASP.NET-Core-7-API\\Pacagroup.Ecommerce.Persistence.Data\\Pacagroup.Ecommerce.Persistence.Data.csproj"
-            },
-            "C:\\Users\\Juan Posada\\Documents\\Groware Test\\Pacagroup-ASP.NET-Core-7-API\\Pacagroup.Ecommerce.Persistence.Repository\\Pacagroup.Ecommerce.Persistence.Repository.csproj": {
-              "projectPath": "C:\\Users\\Juan Posada\\Documents\\Groware Test\\Pacagroup-ASP.NET-Core-7-API\\Pacagroup.Ecommerce.Persistence.Repository\\Pacagroup.Ecommerce.Persistence.Repository.csproj"
+            "C:\\Users\\Juan Posada\\Documents\\Groware Test\\Pacagroup-ASP.NET-Core-7-API\\Pacagroup.Ecommerce.Persistence.Repository\\Pacagroup.Ecommerce.Persistence.csproj": {
+              "projectPath": "C:\\Users\\Juan Posada\\Documents\\Groware Test\\Pacagroup-ASP.NET-Core-7-API\\Pacagroup.Ecommerce.Persistence.Repository\\Pacagroup.Ecommerce.Persistence.csproj"
             },
             "C:\\Users\\Juan Posada\\Documents\\Groware Test\\Pacagroup-ASP.NET-Core-7-API\\Pacagroup.Ecommerce.Transversal.Common\\Pacagroup.Ecommerce.Transversal.Common.csproj": {
               "projectPath": "C:\\Users\\Juan Posada\\Documents\\Groware Test\\Pacagroup-ASP.NET-Core-7-API\\Pacagroup.Ecommerce.Transversal.Common\\Pacagroup.Ecommerce.Transversal.Common.csproj"

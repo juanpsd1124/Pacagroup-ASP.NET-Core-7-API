@@ -1,13 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "kaki7jCZT0JLsvwiBvmPFZDmKfaQeI3/14CrT0EhHF3YROIuxo3kZdhqpzULyB43aVfkHioYkm/zaAMP89IISw==",
+  "dgSpecHash": "6RupPuKNiwtzIsA7OL+btSfe3yszYx+uBZwM9pIvf+gWTq62BynmiQUK9D1Py33QP1j9UP1bDAM+1NyUgDXviQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Juan Posada\\Documents\\Groware Test\\Pacagroup-ASP.NET-Core-7-API\\Pacagroup.Ecommerce.Persistence.Repository\\Pacagroup.Ecommerce.Persistence.Repository.csproj",
+  "projectFilePath": "C:\\Users\\Juan Posada\\Documents\\Groware Test\\Pacagroup-ASP.NET-Core-7-API\\Pacagroup.Ecommerce.Persistence.Repository\\Pacagroup.Ecommerce.Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Juan Posada\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\Juan Posada\\.nuget\\packages\\fluentvalidation\\11.5.2\\fluentvalidation.11.5.2.nupkg.sha512",
     "C:\\Users\\Juan Posada\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
     "C:\\Users\\Juan Posada\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Juan Posada\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\Juan Posada\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\Juan Posada\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
     "C:\\Users\\Juan Posada\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\Juan Posada\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.7.0\\runtime.native.system.data.sqlclient.sni.4.7.0.nupkg.sha512",

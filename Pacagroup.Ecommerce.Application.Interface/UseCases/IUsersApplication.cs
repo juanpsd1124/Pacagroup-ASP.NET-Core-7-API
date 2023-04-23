@@ -5,7 +5,7 @@ namespace Pacagroup.Ecommerce.Application.Interface.UseCases
 {
     public interface IUsersApplication
     {
-        Response<UsersDTO> Authenticate(string username, string password);
+        Response<UserDTO> Authenticate(string username, string password);
 
     }
 }

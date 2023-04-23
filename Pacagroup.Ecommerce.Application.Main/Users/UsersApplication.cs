@@ -6,7 +6,7 @@ using Pacagroup.Ecommerce.Application.Validator;
 using Pacagroup.Ecommerce.Transversal.Common;
 using System;
 
-namespace Pacagroup.Ecommerce.Application.UseCases
+namespace Pacagroup.Ecommerce.Application.UseCases.Users
 {
     public class UsersApplication : IUsersApplication
     {
@@ -14,16 +14,17 @@ namespace Pacagroup.Ecommerce.Application.UseCases
         private readonly IMapper _mapper;
         private readonly UsersDtoValidator _usersDtoValidator;
 
-        public UsersApplication(IUnitOfWork unitOfWork, IMapper imapper, UsersDtoValidator usersDtoValidator) {
+        public UsersApplication(IUnitOfWork unitOfWork, IMapper imapper, UsersDtoValidator usersDtoValidator)
+        {
             _unitOfWork = unitOfWork;
-            _mapper= imapper;
+            _mapper = imapper;
             _usersDtoValidator = usersDtoValidator;
         }
 
-        public Response<UsersDTO> Authenticate(string username, string password)
+        public Response<UserDTO> Authenticate(string username, string password)
         {
-            var response = new Response<UsersDTO>();
-            var validation = _usersDtoValidator.Validate(new UsersDTO() { UserName = username, Password = password });
+            var response = new Response<UserDTO>();
+            var validation = _usersDtoValidator.Validate(new UserDTO() { UserName = username, Password = password });
 
             if (!validation.IsValid)
             {
@@ -34,7 +35,7 @@ namespace Pacagroup.Ecommerce.Application.UseCases
             try
             {
                 var user = _unitOfWork.Users.Authenticate(username, password);
-                response.Data = _mapper.Map<UsersDTO>(user);
+                response.Data = _mapper.Map<UserDTO>(user);
                 response.IsSuccess = true;
                 response.Message = "Autenticación Exitosa!!!";
             }

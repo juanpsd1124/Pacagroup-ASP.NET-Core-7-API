@@ -24,8 +24,7 @@
           "Pacagroup.Ecommerce.Application.UseCases": "1.0.0",
           "Pacagroup.Ecommerce.Application.Validator": "1.0.0",
           "Pacagroup.Ecommerce.Domain.Entity": "1.0.0",
-          "Pacagroup.Ecommerce.Persistence.Data": "1.0.0",
-          "Pacagroup.Ecommerce.Persistence.Repository": "1.0.0",
+          "Pacagroup.Ecommerce.Persistence": "1.0.0",
           "Pacagroup.Ecommerce.Transversal.Common": "1.0.0",
           "Pacagroup.Ecommerce.Transversal.Logging": "1.0.0",
           "Pacagroup.Ecommerce.Transversal.Mapper": "1.0.0",
@@ -3306,25 +3305,17 @@
           "Pacagroup.Ecommerce.Domain.Entity.dll": {}
         }
       },
-      "Pacagroup.Ecommerce.Persistence.Data/1.0.0": {
+      "Pacagroup.Ecommerce.Persistence/1.0.0": {
         "dependencies": {
+          "Dapper": "2.0.123",
           "Microsoft.Extensions.Configuration": "7.0.0",
+          "Microsoft.Extensions.DependencyInjection": "7.0.0",
+          "Pacagroup.Ecommerce.Application.Interface": "1.0.0",
           "Pacagroup.Ecommerce.Transversal.Common": "1.0.0",
           "System.Data.SqlClient": "4.8.5"
         },
         "runtime": {
-          "Pacagroup.Ecommerce.Persistence.Data.dll": {}
-        }
-      },
-      "Pacagroup.Ecommerce.Persistence.Repository/1.0.0": {
-        "dependencies": {
-          "Dapper": "2.0.123",
-          "Pacagroup.Ecommerce.Application.Interface": "1.0.0",
-          "Pacagroup.Ecommerce.Persistence.Data": "1.0.0",
-          "Pacagroup.Ecommerce.Transversal.Common": "1.0.0"
-        },
-        "runtime": {
-          "Pacagroup.Ecommerce.Persistence.Repository.dll": {}
+          "Pacagroup.Ecommerce.Persistence.dll": {}
         }
       },
       "Pacagroup.Ecommerce.Transversal.Common/1.0.0": {
@@ -5418,12 +5409,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "Pacagroup.Ecommerce.Persistence.Data/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "Pacagroup.Ecommerce.Persistence.Repository/1.0.0": {
+    "Pacagroup.Ecommerce.Persistence/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
