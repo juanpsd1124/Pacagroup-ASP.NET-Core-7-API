@@ -28,7 +28,6 @@
           "Pacagroup.Ecommerce.Persistence": "1.0.0",
           "Pacagroup.Ecommerce.Transversal.Common": "1.0.0",
           "Pacagroup.Ecommerce.Transversal.Logging": "1.0.0",
-          "Pacagroup.Ecommerce.Transversal.Mapper": "1.0.0",
           "Swashbuckle.AspNetCore": "6.5.0",
           "Swashbuckle.AspNetCore.Swagger": "6.5.0",
           "Swashbuckle.AspNetCore.SwaggerGen": "6.5.0",
@@ -3620,6 +3619,7 @@
       "Pacagroup.Ecommerce.Application.UseCases/1.0.0": {
         "dependencies": {
           "AutoMapper": "12.0.1",
+          "AutoMapper.Extensions.Microsoft.DependencyInjection": "12.0.1",
           "Pacagroup.Ecommerce.Application.DTO": "1.0.0",
           "Pacagroup.Ecommerce.Application.Interface": "1.0.0",
           "Pacagroup.Ecommerce.Application.Validator": "1.0.0",
@@ -3677,16 +3677,6 @@
         },
         "runtime": {
           "Pacagroup.Ecommerce.Transversal.Logging.dll": {}
-        }
-      },
-      "Pacagroup.Ecommerce.Transversal.Mapper/1.0.0": {
-        "dependencies": {
-          "AutoMapper": "12.0.1",
-          "Pacagroup.Ecommerce.Application.DTO": "1.0.0",
-          "Pacagroup.Ecommerce.Domain": "1.0.0"
-        },
-        "runtime": {
-          "Pacagroup.Ecommerce.Transversal.Mapper.dll": {}
         }
       }
     }
@@ -5917,11 +5907,6 @@
       "sha512": ""
     },
     "Pacagroup.Ecommerce.Transversal.Logging/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "Pacagroup.Ecommerce.Transversal.Mapper/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

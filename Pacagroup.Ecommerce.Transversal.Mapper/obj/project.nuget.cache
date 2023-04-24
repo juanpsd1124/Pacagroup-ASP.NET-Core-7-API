@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "XVydzAqDCICt4yRaGu0iHp7lkRt9KdHu8Iqn8P25wfdjivjuT+3vbaviGKnE+xkG45OXMURfDVHCCGdJRbvi5w==",
+  "dgSpecHash": "v+JfEPVUa8N6l2J+yunBaZAOk7pZPo8MQ5eXX8EdigBNAiHVtcXBuhSJg85951SukL6ZRZxEo9Iqy7TNmd/ASQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Juan Posada\\Documents\\Groware Test\\Pacagroup-ASP.NET-Core-7-API\\Pacagroup.Ecommerce.Transversal.Mapper\\Pacagroup.Ecommerce.Transversal.Mapper.csproj",
+  "projectFilePath": "C:\\Users\\jposada\\Documents\\Groware\\Course Tests\\Pacagroup.Ecommerce\\Pacagroup-ASP.NET-Core-7-API\\Pacagroup.Ecommerce.Transversal.Mapper\\Pacagroup.Ecommerce.Transversal.Mapper.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Juan Posada\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
-    "C:\\Users\\Juan Posada\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+    "C:\\Users\\jposada\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\jposada\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
   ],
   "logs": []
 }
