@@ -1,0 +1,3 @@
+dotnet ef migrations add CreateInitialScheme --project Pacagroup.Ecommerce.Persistence --startup-project Pacagroup.Ecommerce.Services.WebApi --output-dir Migrations --context ApplicationDbContext
+
+dotnet ef database update --project Pacagroup.Ecommerce.Persistence --startup-project Pacagroup.Ecommerce.Services.WebApi --context ApplicationDbContext

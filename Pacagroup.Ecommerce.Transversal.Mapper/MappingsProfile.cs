@@ -1,7 +1,7 @@
 ﻿using System;
 using AutoMapper;
-using Pacagroup.Ecommerce.Domain.Entity;
 using Pacagroup.Ecommerce.Application.DTO;
+using Pacagroup.Ecommerce.Domain.Entities;
 
 namespace Pacagroup.Ecommerce.Transversal.Mapper
 {

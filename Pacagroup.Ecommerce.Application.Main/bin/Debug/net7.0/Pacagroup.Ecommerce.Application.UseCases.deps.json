@@ -12,7 +12,7 @@
           "Pacagroup.Ecommerce.Application.DTO": "1.0.0",
           "Pacagroup.Ecommerce.Application.Interface": "1.0.0",
           "Pacagroup.Ecommerce.Application.Validator": "1.0.0",
-          "Pacagroup.Ecommerce.Domain.Entity": "1.0.0",
+          "Pacagroup.Ecommerce.Domain": "1.0.0",
           "Pacagroup.Ecommerce.Transversal.Common": "1.0.0"
         },
         "runtime": {
@@ -67,7 +67,7 @@
       "Pacagroup.Ecommerce.Application.Interface/1.0.0": {
         "dependencies": {
           "Pacagroup.Ecommerce.Application.DTO": "1.0.0",
-          "Pacagroup.Ecommerce.Domain.Entity": "1.0.0",
+          "Pacagroup.Ecommerce.Domain": "1.0.0",
           "Pacagroup.Ecommerce.Transversal.Common": "1.0.0"
         },
         "runtime": {
@@ -84,9 +84,9 @@
           "Pacagroup.Ecommerce.Application.Validator.dll": {}
         }
       },
-      "Pacagroup.Ecommerce.Domain.Entity/1.0.0": {
+      "Pacagroup.Ecommerce.Domain/1.0.0": {
         "runtime": {
-          "Pacagroup.Ecommerce.Domain.Entity.dll": {}
+          "Pacagroup.Ecommerce.Domain.dll": {}
         }
       },
       "Pacagroup.Ecommerce.Transversal.Common/1.0.0": {
@@ -155,7 +155,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "Pacagroup.Ecommerce.Domain.Entity/1.0.0": {
+    "Pacagroup.Ecommerce.Domain/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

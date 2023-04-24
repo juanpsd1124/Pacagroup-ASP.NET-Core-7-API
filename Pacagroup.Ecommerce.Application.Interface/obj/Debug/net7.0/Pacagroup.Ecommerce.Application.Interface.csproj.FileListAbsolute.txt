@@ -2,10 +2,8 @@ C:\Users\Juan Posada\Documents\Groware Test\Pacagroup-ASP.NET-Core-7-API\Pacagro
 C:\Users\Juan Posada\Documents\Groware Test\Pacagroup-ASP.NET-Core-7-API\Pacagroup.Ecommerce.Application.Interface\bin\Debug\net7.0\Pacagroup.Ecommerce.Application.Interface.dll
 C:\Users\Juan Posada\Documents\Groware Test\Pacagroup-ASP.NET-Core-7-API\Pacagroup.Ecommerce.Application.Interface\bin\Debug\net7.0\Pacagroup.Ecommerce.Application.Interface.pdb
 C:\Users\Juan Posada\Documents\Groware Test\Pacagroup-ASP.NET-Core-7-API\Pacagroup.Ecommerce.Application.Interface\bin\Debug\net7.0\Pacagroup.Ecommerce.Application.DTO.dll
-C:\Users\Juan Posada\Documents\Groware Test\Pacagroup-ASP.NET-Core-7-API\Pacagroup.Ecommerce.Application.Interface\bin\Debug\net7.0\Pacagroup.Ecommerce.Domain.Entity.dll
 C:\Users\Juan Posada\Documents\Groware Test\Pacagroup-ASP.NET-Core-7-API\Pacagroup.Ecommerce.Application.Interface\bin\Debug\net7.0\Pacagroup.Ecommerce.Transversal.Common.dll
 C:\Users\Juan Posada\Documents\Groware Test\Pacagroup-ASP.NET-Core-7-API\Pacagroup.Ecommerce.Application.Interface\bin\Debug\net7.0\Pacagroup.Ecommerce.Application.DTO.pdb
-C:\Users\Juan Posada\Documents\Groware Test\Pacagroup-ASP.NET-Core-7-API\Pacagroup.Ecommerce.Application.Interface\bin\Debug\net7.0\Pacagroup.Ecommerce.Domain.Entity.pdb
 C:\Users\Juan Posada\Documents\Groware Test\Pacagroup-ASP.NET-Core-7-API\Pacagroup.Ecommerce.Application.Interface\bin\Debug\net7.0\Pacagroup.Ecommerce.Transversal.Common.pdb
 C:\Users\Juan Posada\Documents\Groware Test\Pacagroup-ASP.NET-Core-7-API\Pacagroup.Ecommerce.Application.Interface\obj\Debug\net7.0\Pacagroup.Ecommerce.Application.Interface.csproj.AssemblyReference.cache
 C:\Users\Juan Posada\Documents\Groware Test\Pacagroup-ASP.NET-Core-7-API\Pacagroup.Ecommerce.Application.Interface\obj\Debug\net7.0\Pacagroup.Ecommerce.Application.Interface.GeneratedMSBuildEditorConfig.editorconfig
@@ -17,3 +15,5 @@ C:\Users\Juan Posada\Documents\Groware Test\Pacagroup-ASP.NET-Core-7-API\Pacagro
 C:\Users\Juan Posada\Documents\Groware Test\Pacagroup-ASP.NET-Core-7-API\Pacagroup.Ecommerce.Application.Interface\obj\Debug\net7.0\refint\Pacagroup.Ecommerce.Application.Interface.dll
 C:\Users\Juan Posada\Documents\Groware Test\Pacagroup-ASP.NET-Core-7-API\Pacagroup.Ecommerce.Application.Interface\obj\Debug\net7.0\Pacagroup.Ecommerce.Application.Interface.pdb
 C:\Users\Juan Posada\Documents\Groware Test\Pacagroup-ASP.NET-Core-7-API\Pacagroup.Ecommerce.Application.Interface\obj\Debug\net7.0\ref\Pacagroup.Ecommerce.Application.Interface.dll
+C:\Users\Juan Posada\Documents\Groware Test\Pacagroup-ASP.NET-Core-7-API\Pacagroup.Ecommerce.Application.Interface\bin\Debug\net7.0\Pacagroup.Ecommerce.Domain.dll
+C:\Users\Juan Posada\Documents\Groware Test\Pacagroup-ASP.NET-Core-7-API\Pacagroup.Ecommerce.Application.Interface\bin\Debug\net7.0\Pacagroup.Ecommerce.Domain.pdb

@@ -1,13 +1,16 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
+using System.Threading.Tasks;
+using System.Threading;
 
 namespace Pacagroup.Ecommerce.Application.Interface.Persistence
 {
     public interface IUnitOfWork : IDisposable
     {
-        IUsersRepository Users { get; }
         ICustomersRepository Customers { get; }
+        IUsersRepository Users { get; }
+
         ICategoriesRepository Categories { get; }
+        IDiscountRepository Discounts { get; }
+        Task<int> Save(CancellationToken cancellationToken);
     }
 }
