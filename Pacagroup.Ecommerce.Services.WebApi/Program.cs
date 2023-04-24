@@ -1,6 +1,5 @@
 ﻿using HealthChecks.UI.Client;
 using Pacagroup.Ecommerce.Services.WebApi.Modules.Authentication;
-using Pacagroup.Ecommerce.Services.WebApi.Modules.Features;
 using Pacagroup.Ecommerce.Services.WebApi.Modules.HealthCheck;
 using Pacagroup.Ecommerce.Services.WebApi.Modules.Injection;
 
@@ -8,11 +7,12 @@ using Pacagroup.Ecommerce.Services.WebApi.Modules.RateLimiter;
 using Pacagroup.Ecommerce.Services.WebApi.Modules.Versioning;
 using Pacagroup.Ecommerce.Persistence;
 using Pacagroup.Ecommerce.Application.UseCases;
+using Pacagroup.Ecommerce.Services.WebApi.Modules.Feature;
 
 var builder = WebApplication.CreateBuilder(args);
 
 //Agregar servicios a contenedor de dependencias
-builder.Services.AddControllers();
+
 builder.Services.AddEndpointsApiExplorer();
 
 builder.Services.AddFeature(builder.Configuration);
